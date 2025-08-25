@@ -15,7 +15,7 @@ Shrinecanyon_1_1,Shrinecanyon_1,19,,,100
 Shrinecanyon_4_1,Shrinecanyon_4,9,,,,HealPerHitPassive,,1
 Shrinecanyon_5_1,Shrinecanyon_5,16,,,,,,1,,,HealPerHitPassive
 Shrinecanyon_6_1,Shrinecanyon_6,1,2000,,25,,,2,W01_OA01,DragonlingProtect
-Shrinecanyon_7_1_1,Shrinecanyon_7_1,19,,,,MultishotBow,,0
+Shrinecanyon_7_1_1,Shrinecanyon_7_1,19,,,,MultishotBow,0
 
 Overgrown_1_1,Overgrown_1,19,,,,,W01_OA02,0
 Overgrown_2_1,Overgrown_2,1,3000,,25,,,50,W01_OA02
