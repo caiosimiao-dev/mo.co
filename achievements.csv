@@ -1,4 +1,4 @@
-Name,OrderNumber,Category,TaskType,Paragon,AchReq,Season,ParagonTokenReward,Disabled,XpLevelReq,EndgameLevelReq,LocReq,GearCondition,MonsterCondition,LocCondition,EventTypeCondition,LocTypeCondition,BossRequiredCondition,GearTypeCondition,TargetLevelCondition,TotalProgress,TargetTime,XpReward,SkinReward,NeverDisplayAsNew,SkinTokenReward
+Name,OrderNumber,Category,TaskType,Paragon,AchReq,Season,ParagonTokenReward,Disabled,XpLevelReq,EndgameLevelReq,LocReq,GearCondition,MonsterCondition,LocCondition,EventTypeCondition,LocTypeCondition,BossRequiredCondition,GearTypeCondition,TargetLevelCondition,TotalProgress,TargetTime,XpReward
 XP10_1_FindChest,1001,101,2,,,,,,,,,,,W01_OA01,,,,,,10,,1000
 XP10_2_HuntMap,1002,101,1,,,,,,,,,,,W01_OA01,,,,,,750,,1000
 ,,,,,,,,,,,,,,,,,,,,2000,,1500
