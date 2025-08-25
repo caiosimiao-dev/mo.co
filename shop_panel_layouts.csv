@@ -1,0 +1,13 @@
+Name,Disabled,AssetFileName,Asset,Item1Size,Item2Size,Item3Size,Item4Size,Item5Size,Item6Size,TID
+string,boolean,string,string,int,int,int,int,int,int,string
+shop_layout_2_hor,,sc/ui.sc,shop_layout_2_hor,1,1,,,,,
+shop_layout_4_grid,,sc/ui.sc,shop_layout_4_grid,2,2,2,2,,,
+shop_layout_solo,,sc/ui.sc,shop_layout_solo,1,,,,,,
+shop_layout_solo_plus_2,,sc/ui.sc,shop_layout_solo_plus_2,1,2,2,,,,
+shop_layout_solo_wide,,sc/ui.sc,shop_layout_solo_wide,1,,,,,,
+shop_layout_2_ver,,sc/ui.sc,shop_layout_2_ver,2,2,,,,,
+shop_layout_solo_half,,sc/ui.sc,shop_layout_solo_half,2,,,,,,
+shop_layout_solo_paragon,,sc/ui.sc,shop_layout_solo_paragon,1,,,,,,
+shop_layout_hero_mount_2_extras,,sc/ui.sc,shop_layout_hero_mount_2_extras,7,1,6,6,,,
+shop_layout_hero_mount_3_extras,,sc/ui.sc,shop_layout_hero_mount_3_extras,7,1,6,6,6,,
+shop_layout_hero,,sc/ui.sc,shop_layout_hero,7,6,6,6,6,,

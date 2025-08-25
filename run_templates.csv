@@ -1,0 +1,16 @@
+Map,RunType,Duration
+String,string,Int
+dpstest_melee1,dpstest,135
+dpstest_melee2,dpstest,135
+dpstest_melee3,dpstest,135
+dpstest_melee5,dpstest,135
+dpstest_melee10,dpstest,135
+dpstest_melee20,dpstest,135
+dpstest3,dpstest,135
+dpstest5,dpstest,135
+dpstest10,dpstest,135
+dpstest20,dpstest,135
+healtest0,healtest,45
+healtest1,healtest,45
+healtest2,healtest,45
+healtest3,healtest,45

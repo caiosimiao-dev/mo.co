@@ -1,0 +1,2 @@
+Name,Disabled,FileName,ExportName,Character,Skin,IsPicto,BattleCategory,Rarity,EmoteType,SoundEffect,SfxIndex,LockedForChronos,EmoteBundle,IsDefaultBattleEmote
+string,boolean,string,string,string,string,boolean,int,int,int,string,int,boolean,string,boolean

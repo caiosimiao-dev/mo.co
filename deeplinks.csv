@@ -1,0 +1,27 @@
+Name,ParameterType,ParameterName,Description,Public,AllowInBattle
+String,String,String,String,Boolean,Boolean
+OpenShop,,,Open the shop,TRUE,
+OpenShopOfferBundle,int,offerId,Open the shop and show bundle,TRUE,
+Share,String,message,Open native share dialogue with message,FALSE,
+OpenPlayerProfile,String,tag,Open player profile,TRUE,TRUE
+OpenEvents,int,eventId,Open event menu and highlight event,TRUE,
+,String,tab,accepts value event or reward,,
+JoinTeam,String,code,Join team with given code,TRUE,TRUE
+JoinOrCreateTeam,String,code,Join team with given code,TRUE,TRUE
+SurveyCompleted,,,Opens a popup thanking the player.,TRUE,
+AddPlayerToTeam,String,token,ask the given player to join their team,TRUE,TRUE
+Voucher,String,code,Claim SpellFactory voucher,TRUE,
+Invite,String,code,Accept SpellFactory invite,TRUE,
+SupportCreator,String,code,Support a Creator,TRUE,
+OpenWeb,String,address,Open a web page,FALSE,FALSE
+OpenEliteHunter,,,Open Ellie,TRUE,
+FollowPlayer,String,tag,Follow player,TRUE,FALSE
+,String,locGlobalId,,,
+CreateTeam,,,Create a new team,TRUE,FALSE
+GoToMapScreen,int,reflectableId,Go to map screen with the given reflectable id,FALSE,FALSE
+PlayerInvited,String,tag,Callback deeplink when player was invited to team through social,TRUE,FALSE
+LeaveTeam,,,Leave the current team,TRUE,FALSE
+OpenTeam,String,groupId,Open a team based on social presence,TRUE,FALSE
+PlayVideo,String,path,Plays the video defined by the path,FALSE,FALSE
+KickFromTeam,String,tag,Kick player from team,TRUE,FALSE
+AddFriend,String,tag,Open player profile,TRUE,TRUE

@@ -1,0 +1,2 @@
+Name,Character,Type,Title,Texts,ButtonLabel,ShowDelaySecs,ShowInLog,XpLevel,ProgressionPerc,MaxXpLevel,MaxProgressionPerc,EquippedGear,VideoFile,VideoURL,ImagePath,Rule
+string,string,string,string,string,string,int,boolean,int,int,int,int,string,string,string,string,string

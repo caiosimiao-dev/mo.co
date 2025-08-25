@@ -1,0 +1,6 @@
+Name,Category,Variant,ExcludeOwnCharacter,Limit
+String,String,String,boolean,int
+Projectile misses of other players,ProjectileEnvHit,FriendlyPlayer,,12
+,ProjectileMiss,EnemyPlayer,,
+,ProjectileHit,FriendlyPlayer,,12
+,ProjectileMiss,FriendlyPlayer,,12

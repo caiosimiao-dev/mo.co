@@ -1,0 +1,16 @@
+Name,Fonts,FallbackFonts,SystemFont,ForcedFont
+String,string,string,string,string
+Latin,font/mocoApp-Regular.ttf,font/NanumGothic-ExtraBold.ttf,,
+,font/mocoApp-Bold.ttf,font/NotoNaskhArabic-Bold.ttf,,
+,font/mocoApp-Black.ttf,,,
+,font/mocoApp-RegularItalic.ttf,,,
+,font/mocoApp-BoldItalic.ttf,,,
+,font/mocoApp-BlackItalic.ttf,,,
+,font/RammettoCustom-Narrow.ttf,,,
+KR,,font/NotoSansKR-Bold.ttf,,
+RU,,font/NotoSans-Bold.ttf,,
+JP,,font/NotoSansJP-Bold.ttf,,
+CN,,font/NotoSansSC-Bold.ttf,,
+CNT,,font/NotoSansTC-Bold.ttf,,
+AR,,font/NotoSansArabic-Bold.ttf,,
+TH,,font/NotoSansThai-Bold.ttf,,

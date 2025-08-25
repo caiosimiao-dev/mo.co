@@ -1,0 +1,4 @@
+Name,File
+String,String
+gear,csv_logic/gear.csv
+skill,csv_logic/skills.csv

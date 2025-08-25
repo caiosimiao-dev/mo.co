@@ -1,0 +1,13 @@
+Name,Movement,CustomString,SpecialRange,MaxCombinations,FoodHealing,FoodSlowdown,StatueMinInactiveSeconds,StatueMaxInactiveSeconds,StatueActiveSeconds
+string,string,string,int,int,int,int,int,int,int
+Default,Default,,,,,,,,
+AvoidPlayer,AvoidPlayer,,500,,,,,,
+NeverApproachPlayer,NeverApproachPlayer,,700,,,,,,
+AvoidPlayerShort,AvoidPlayer,,300,,,,,,
+CombineWithOthers,CombineWithOthers,,4000,15,,,,,
+Food,Food,,,,5000,300,,,
+FindOtherEnemies,FindOtherEnemies,,1000,,,,,,
+IgnorePlayer,IgnorePlayer,,,,,,,,
+Statue,Statue,,300,,,,10,200,10
+ProtectAntenna1,Default,,90,,,,,,
+ProtectAntenna2,Default,,120,,,,,,

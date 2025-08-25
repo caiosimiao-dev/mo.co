@@ -1,0 +1,5 @@
+Name,TID_GEAR,TID_MOUNT,Color,RarityFrame
+string,string,string,string,string
+Common,TID_GEAR_GRADE_COMMON,TID_MOUNT_GRADE_COMMON,0xff25BB0D,common
+Epic,TID_GEAR_GRADE_EPIC,TID_MOUNT_GRADE_EPIC,0xffCB54FE,epic
+Legendary,TID_GEAR_GRADE_LEGENDARY,TID_MOUNT_GRADE_LEGENDARY,0xffffaa0a,legendary

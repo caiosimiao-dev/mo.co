@@ -1,0 +1,141 @@
+Name,Value
+String,float
+GEAR CHEST,
+GearChestItemAnimDelay,0.1
+GearChestItemRowDelayMultiplier,1
+GearChestItemYOffset,20
+GEAR INFO,
+LevelScaleMaxOffset,150
+MAIN MISSIONS,
+ScrollAreaTopPadding,100
+ScrollAreaBottomPadding,80
+FirstMessageTypingTime,0
+ShowTypingTime,1
+MessageToTypingTime,0.35
+ReplyButtonAppearTime,0.2
+LEVEL UP,
+levelUpScreenAppearTime,0.3
+levelUpScreenAppearAlpha,0.3
+levelUpScreenWaitUntilAppearTime,0
+XP_DISPLAY,
+fadeoutDelay,0.5
+REWARD ITEMS,
+RewardMenuEmoteTimeScale,2
+RewardMenuEmoteWaitBefore,0.5
+RewardMenuEmoteWaitAfter,1.5
+RewardMenuGestureWaitBefore,0
+RewardMenuEmoteAdditionalSizeScale,1.5
+RewardMenuEmoteCenterXOffset,-0.15
+EMOTE PANEL,
+EmoteEffectOffsetLobbyX,0
+EmoteEffectOffsetLobbyY,-100
+EmoteEffectOffsetBattleEndX,0
+EmoteEffectOffsetBattleEndY,-170
+EmoteEffectLifeTimeScale,1
+EmoteEffectLifeTimeScaleWardrobe,2
+EmoteEffectScalingLobby,1.1
+EmoteEffectScalingBattleEnd,1.66
+PARAGON ITEM CAROUSEL,
+ParagonCarouselCameraX,0
+ParagonCarouselCameraY,14.1
+ParagonCarouselCameraZ,0
+ParagonCarouselSpeed,0.8
+ParagonCarouselSinMultiplier,15
+ParagonCarouselCosMultiplier,4.2
+ParagonCarouselStartRadians,-1.57079
+ParagonCarouselMaxRadians,0.0
+ParagonCarouselItemCloseness,4
+ParagonCarouselUseAutoChange,0
+ParagonCarouselAutoChangeTime,2.5
+ParagonCarouselAutoChangeTimeAfterInput,14
+ParagonCarouselEmoteOffsetX,100
+ParagonCarouselEmoteOffsetY,-300
+ParagonCarouselTitleOffsetX,0
+ParagonCarouselTitleOffsetY,-125
+ParagonCarouselChangeTime,0.4
+ParagonCarouselChangeTimeFast,0.1
+ParagonCarouselItemClosenessUpdate,6
+ParagonCarouselUseAutoChangeUpdate,1
+SHOP,
+ShopScollAreaPadding,250
+ShopLeftEmptySpace,20
+PROMO POPUP,
+PromoPopupTimeBeforeShowingCloseButton,0.5
+REWARD ANIM,
+RewardSpawnXFactor,0.5
+RewardSpawnYFactor,0.4
+HOME XP GAIN,
+WaitBeforeFly,0.7
+DelayBetweenFly,0.7
+GainXpWaitToOpenTasksPopup,0.3
+LOADING SCREEN,
+LoadingScreenMoveToCornerXLimit,30
+LoadingScreenMoveToCornerYLimit,30
+LoadingScreenMoveFactor,0.7
+EMOTE POSITIONS,
+EmoteBattle_ModeManual,0
+EmoteBattle_ModeCircular,1
+EmoteBattle_SlownessFactor,0.66
+EmoteBattle_Manual_0_X,-285
+EmoteBattle_Manual_0_Y,-456
+EmoteBattle_Manual_1_X,-212
+EmoteBattle_Manual_1_Y,-486
+EmoteBattle_Manual_2_X,-135
+EmoteBattle_Manual_2_Y,-497
+EmoteBattle_Manual_3_X,-285
+EmoteBattle_Manual_3_Y,-381
+EmoteBattle_Manual_4_X,-212
+EmoteBattle_Manual_4_Y,-411
+EmoteBattle_Manual_5_X,-135
+EmoteBattle_Manual_5_Y,-422
+EmoteBattle_CircularRadius,300
+EmoteBattle_CircularStartAngle,90
+EmoteBattle_CircularStopAngle,0
+EmoteBattleEnd_ModeManual,0
+EmoteBattleEnd_ModeCircular,0
+EmoteBattleEnd_ModeLine,1
+EmoteBattleEnd_SlownessFactor,0.66
+EmoteBattleEnd_LineStartX,-85
+EmoteBattleEnd_LineDeltaX,-85
+EmoteBattleEnd_LineStartY,0
+EmoteBattleEnd_LineDeltaY,0
+EmoteBattleEnd_LineItemsPerRow,6
+EmoteTeamLobby_SlownessFactor,0.66
+EmoteTeamLobby_ModeManual,0
+EmoteTeamLobby_ModeCircular,0
+EmoteTeamLobby_ModeLine,1
+EmoteTeamLobby_LineStartX,255
+EmoteTeamLobby_LineDeltaX,-85
+EmoteTeamLobby_LineStartY,25
+EmoteTeamLobby_LineDeltaY,-75
+EmoteTeamLobby_LineItemsPerRow,3
+GENERAL HUD,
+ShowZoomButton,0
+BATTLE MAP,
+BattleMapPopupDotsStartY,150
+SAFE AREA,
+IphoneSafeAreaOffsetX,-42
+AndroidSafeAreaOffsetX,-42
+DesktopSafeAreaOffsetX,-42
+INTRO SPLASH,
+TapToStartVideoAfterAnimEndDelay,1
+CloseAfterStartingVideoDelay,2
+JOYSTICK
+AttackStickOffsetX,241
+AttackStickOffsetY,115
+MoveStickOffsetX,279
+MoveStickOffsetY,160
+EmoteButtonOffsetX,150
+EmoteButtonOffsetY,400
+ScaleDownControlsStartingFromAttackRadius,0.612
+JoyStickScaleFactorHome,0.1
+JoyStickScaleFactorBattle,0.5
+MinJoyStickScale,0.3
+JoystickYMoveFromScale,0.5
+HOMEHUD,
+EventButtonCollapseDelay,4
+TEAM
+InvitePopoverWidthMargin,500
+AddFriendAdvertDelay,0.3
+SelectMapAdvertDelay,0.5
+DUMMY

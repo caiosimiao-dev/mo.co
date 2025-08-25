@@ -1,0 +1,489 @@
+Name,EventName,BankName,DevStatus,Explanation
+String,String,String,String,String
+Home,Music/Home/HomeSong00,MusicHome00,,
+,Music/Home/HomeSong00Alt,MusicHome00Alt,,
+,Music/Home/HomeSong01,MusicHome01,,
+,Music/Home/HomeSong02,MusicHome02,,
+,Music/Home/HomeSong03,MusicHome03,,
+,Music/Home/HomeSong04,MusicHome04,,
+,Music/Home/HomeSong05,MusicHome05,,
+,Music/Home/HomeSong06,MusicHome06,,
+,Music/Home/HomeSong07,MusicHome07,,
+,Music/Home/HomeSong08,MusicHome08,,
+,Music/Home/HomeSong09,MusicHome09,,
+,Music/Home/HomeSong10,MusicHome10,,
+,Music/Home/HomeSong11,MusicHome11,,
+,Music/Home/HomeSong12,MusicHome12,,
+,Music/Home/HomeSong13,MusicHome13,,
+,Music/Home/HomeSong14,MusicHome14,,
+,Music/Home/HomeSong15,MusicHome15,,
+,Music/Home/HomeSong16,MusicHome16,,
+HomeStart,Music/Home/HomeSong00,MusicHome00,,
+Home-Season-2,Music/Home/HomeSong00,MusicHome00,,
+,Music/Home/HomeSong01,MusicHome01,,
+,Music/Home/HomeSong02,MusicHome02,,
+,Music/Home/HomeSong03,MusicHome03,,
+,Music/Home/HomeSong04,MusicHome04,,
+,Music/Home/HomeSong05,MusicHome05,,
+,Music/Home/HomeSong06,MusicHome06,,
+,Music/Home/HomeSong07,MusicHome07,,
+,Music/Home/HomeSong08,MusicHome08,,
+,Music/Home/HomeSong09,MusicHome09,,
+,Music/Home/HomeSong10,MusicHome10,,
+,Music/Home/HomeSong11,MusicHome11,,
+,Music/Home/HomeSong12,MusicHome12,,
+,Music/Home/HomeSong13,MusicHome13,,
+,Music/Home/HomeSong14,MusicHome14,,
+,Music/Home/HomeSong15,MusicHome15,,
+,Music/Home/HomeSong16,MusicHome16,,
+,Music/Home/HomeSong17CH2,MusicHome17CH2,,
+,Music/Home/HomeSong18CH2,MusicHome18CH2,,
+,Music/Home/HomeSong18CH2Alt,MusicHome18CH2,,
+,Music/Home/HomeSong19CH2,MusicHome19CH2,,
+,Music/Home/HomeSong20CH2,MusicHome20CH2,,
+,Music/Home/HomeSong21CH2,MusicHome21CH2,,
+,Music/Home/HomeSong22CH2,MusicHome22CH2,,
+,Music/Home/HomeSong23CH2,MusicHome23CH2,,
+,Music/Home/HomeSong24CH2,MusicHome24CH2,,
+HomeStart-Season-2,Music/Home/HomeSong17CH2,MusicHome17CH2,,
+CoolZone,Music/CoolZone/CoolZone01,MusicCoolZone01,,
+TutorialBasic,Music/Levels/DangerSong01,MusicIngame01,,
+Tutorial,Music/Levels/DangerSong02,MusicIngame02,,
+OpenWorldLight,Music/Levels/DangerSong03,MusicIngame03,,
+,Music/Levels/DangerSong02,MusicIngame02,,
+,Music/Levels/DangerSong06,MusicIngame06,,
+OpenWorldDark,Music/Levels/DangerSong01,MusicIngame01,,
+,Music/Levels/DangerSong05,MusicIngame05,,
+OpenWorldDragonlingShrineCanyon,Music/Levels/DangerSong03,MusicIngame03,,
+OpenWorldDragonlingOvergrownRuins,Music/Levels/DangerSong06,MusicIngame06,,
+OpenWorldDragonlingCaveOfSpirits,Music/Levels/DangerSong02,MusicIngame02,,
+OpenWorldDragonlingSummoningGrounds,Music/Levels/DangerSong01,MusicIngame01,,
+OpenWorldDragonlingDragonCity,Music/Levels/DragonlingDragonCity,MusicDragonlingDragonCity,,
+OpenWorldDragonlingGardenCity,Music/Levels/DragonlingGardenCity,MusicDragonlingGardenCity,,
+OpenWorldDragonlingMountainCaves,Music/Levels/DragonlingMountainCaves,MusicDragonlingMountainCaves,,
+OpenWorldBeetleTheForest,Music/Levels/DangerSong05,MusicIngame05,,
+OpenWorldBeetleOuterWorlds,Music/Levels/BeetleOuterWorlds,MusicBeetleOuterWorlds,,
+OpenWorldBeetleSewers,Music/Levels/BeetleSewers,MusicBeetleSewers,,
+OpenWorldBeetleCastle,Music/Levels/BeetleCastle,MusicBeetleCastle,,
+OpenWorldBeetleRoyalQuarters,Music/Levels/BeetleRoyalQuarters,MusicBeetleRoyalQuarters,,
+OpenWorldBeetleRoyalQuartersAmbient,Music/Levels/BeetleRoyalQuartersAmbient,MusicBeetleRoyalQuarters,,
+OpenWorldBeetleSwamp,Music/Levels/BeetleSwamp,MusicBeetleSwamp,,
+OpenWorldCatFishingVillage,Music/Levels/CatFishingVillageMusic,MusicCatFishingVillage,,
+OpenWorldCatSlums,Music/Levels/CatSlums,MusicCatSlums,,
+OpenWorldCatCitadel,Music/Levels/CatCitadelMusic,MusicCatCitadel,,
+OpenWorldCatHeatFactory,Music/Levels/CatHeatFactory,MusicCatHeatFactory,,
+OpenWorldCatYakuzaGardens,Music/Levels/CatYakuzaGardens,MusicCatYakuzaGardens,,
+DungeonBeetleDangerSong1,Music/Levels/DangerSong01Dungeon,MusicIngame01,,
+DungeonBeetleTheForest,Music/Levels/DangerSong05Dungeon,MusicIngame05,,
+DungeonBeetleSewers,Music/Levels/BeetleSewersDungeon,MusicBeetleSewers,,
+DungeonBeetleRoyalQuarters,Music/Levels/BeetleRoyalQuartersDungeon,MusicBeetleRoyalQuarters,,
+DungeonBeetleOuterWorlds,Music/Levels/BeetleOuterWorldsDungeon,MusicBeetleOuterWorlds,,
+DungeonLight,Music/Levels/DangerSong03Dungeon,MusicIngame03,,
+,Music/Levels/DangerSong02,MusicIngame02,,
+DungeonDark,Music/Levels/DangerSong01Dungeon,MusicIngame01,,
+,Music/Levels/DangerSong04,MusicIngame04,,
+DungeonDarkBigPapa,Music/Levels/DangerSong04,MusicIngame04,,
+DungeonDragonlingShrineCanyon,Music/Levels/DangerSong03Dungeon,MusicIngame03,,
+DungeonDragonlingGardenCity,Music/Levels/DragonlingGardenCityDungeon,MusicDragonlingGardenCity,,
+DungeonDragonlingDragonCity,Music/Levels/DragonlingDragonCityDungeon,MusicDragonlingDragonCity,,
+DungeonDragonlingOvergrownRuins,Music/Levels/DangerSong06Dungeon,MusicIngame06,,
+DungeonDragonlingMountainCaves,Music/Levels/DragonlingMountainCaves,MusicDragonlingMountainCaves,,
+DungeonBreedingGrounds,Music/Levels/DungeonBreedingGrounds,MusicSoloDungeon02,,
+DungeonCatSlums,Music/Levels/CatSlumsDungeon,MusicCatSlums,,
+DungeonBoss01,Music/Levels/BossDungeon01,MusicBossDungeon01,,
+DungeonBoss01B,Music/Levels/BossDungeon01B,MusicBossDungeon01,,
+PVPBeetleTheForest,Music/Levels/DangerSong05PVP,MusicIngame05,,
+PVPDragonlingShrineCanyon,Music/Levels/DangerSong03PVP,MusicIngame03,,
+PVPDarkBigPapa,Music/Levels/DangerSong04PVP,MusicIngame04,,
+PVPDungeon01,Music/Levels/PVPDungeon01,MusicPVPDungeon01,,
+ArenaLight,Music/Levels/DangerSong03,MusicIngame03,,
+DangerSong05,Music/Levels/DangerSong05,MusicIngame05,,
+SoloDungeon01A,Music/Levels/SoloDungeon01A,MusicSoloDungeon01,,
+SoloDungeon01B,Music/Levels/SoloDungeon01B,MusicSoloDungeon01,,
+SoloDungeon02,Music/Levels/SoloDungeon02,MusicSoloDungeon02,,
+SoloDungeon03,Music/Levels/SoloDungeon03,MusicSoloDungeon03,,
+SoloDungeon04,Music/Levels/SoloDungeon04,MusicSoloDungeon04,,
+ArenaDungeon01B,Music/Levels/ArenaDungeon01B,MusicArenaDungeon01B,,For 7-8 wave dungeons
+ArenaDungeon01C,Music/Levels/ArenaDungeon01C,MusicArenaDungeon01B,,For 3 wave arena rifts
+TechnoFistsSong01,Music/Levels/TechnoFistsSong01,TechnoFistsSong01,,
+EarthSynthwave,Music/Levels/EarthSynthwave,MusicEarthSynthwave,,
+EarthSynthwaveIntense,Music/Levels/EarthSynthwaveIntense,MusicEarthSynthwave,,
+EarthSynthwaveArena,Music/Levels/EarthSynthwaveArenaMode,MusicEarthSynthwave,,For 3 wave arena rifts
+OpenWorldEarthCrossTown,Music/Levels/EarthCrossTown,MusicEarthCrossTown,,
+OpenWorldEarthCrossTown02,Music/Levels/EarthCrossTownIntense,MusicEarthCrossTown,,
+Maintenance,Music/Home/Maintenance,MusicMaintenance,,
+Buttons,,,,
+DefaultButtonClick,SFX/UI-2D/MenuClickGeneric,UI,Asset 1st version in use,basic button click
+DefaultButtonClose,SFX/UI-2D/MenuBackGeneric,UI,Asset 1st version in use,used when closing buttons
+DefaultButtonFailed,SFX/UI-2D/MenuClickError,UI,Asset 1st version in use,used when a button press results to a error print text
+DefaultPopoverClose,SFX/UI-2D/PopupCloseGeneric,UI,Asset 1st version in use,when closing a popover
+DefaultPopoverOpen,SFX/UI-2D/PopupOpenGeneric,UI,Asset 1st version in use,when opening a popover
+PopoverListOpen,SFX/UI-2D/PopupOpenGeneric,UI,Asset 1st version in use,when opening a bottom screen list (like maps in resource info or gear in wardrobe)
+PopoverListClose,SFX/UI-2D/PopupCloseGeneric,UI,Asset 1st version in use,closing a bottom screen list
+PopoverListItemAppear,SFX/UI-2D/PopoverListItem,UI,Asset 1st version in use,played for each bottom screen list item appear
+PhonePressed,SFX/UI-2D/BattlePhoneTap,UI,Asset 1st version in use,when pressing phone button
+FirstMessageOpen,SFX/UI-2D/TextMessageOpenFirst,UI,Asset 1st version in use,first tutorial message
+TextMessageOpen,SFX/UI-2D/TextMessageOpen,UI,Asset 1st version in use,tutorial message appear
+TextMessageReply,SFX/UI-2D/TextMessageSend,UI,Asset 1st version in use,tutorial message reply button
+TextMessageTyping,SFX/UI-2D/TutorialTypeTicker,UI,Asset 1st version in use,tutorial message reply button
+TextMessageReplyTyping,SFX/UI-2D/TutorialReplyTicker,UI,Asset 1st version in use,tutorial message reply button
+MissionPhoneOpen,SFX/UI-2D/TextMessageOpenFirst,UI,Asset 1st version in use,Open the mission phone UI
+MissionPhoneJaxMessageOpen,SFX/UI-2D/MissionPhoneJaxMessageOpen,UI,Asset 1st version in use,Click Jax's quest icon
+MissionPhoneJaxMessageType,SFX/UI-2D/MissionPhoneJaxMessageType,UI,Asset 1st version in use,Jax message typing box appears
+MissionPhoneJaxMessageSends,SFX/UI-2D/MissionPhoneJaxMessageSend,UI,Asset 1st version in use,Jax message text appears
+MissionPhoneLunaMessageOpen,SFX/UI-2D/MissionPhoneLunaMessageOpen,UI,Asset 1st version in use,Click Luna's quest icon
+MissionPhoneLunaMessageType,SFX/UI-2D/MissionPhoneLunaMessageType,UI,Asset 1st version in use,Luna message typing box appears
+MissionPhoneLunaMessageSends,SFX/UI-2D/MissionPhoneLunaMessageSend,UI,Asset 1st version in use,Luna message text appears
+MissionPhoneMannyMessageOpen,SFX/UI-2D/MissionPhoneMannyMessageOpen,UI,Asset 1st version in use,Click Manny's quest icon
+MissionPhoneMannyMessageType,SFX/UI-2D/MissionPhoneMannyMessageType,UI,Asset 1st version in use,Manny message typing box appears
+MissionPhoneMannyMessageSends,SFX/UI-2D/MissionPhoneMannyMessageSend,UI,Asset 1st version in use,Manny message text appears
+MissionPhoneUnknownMessageOpen,SFX/UI-2D/MissionPhoneUnknownMessageOpen,UI,Asset 1st version in use,Unknown sender
+MissionPhoneUnknownMessageType,SFX/UI-2D/MissionPhoneUnknownMessageType,UI,Asset 1st version in use,
+MissionPhoneUnknownMessageSends,SFX/UI-2D/MissionPhoneUnknownMessageSend,UI,Asset 1st version in use,
+MissionPhoneAceMessageOpen,SFX/UI-2D/MissionPhoneAceMessageOpen,UI,Asset 1st version in use,ACE bot communicating
+MissionPhoneAceMessageType,SFX/UI-2D/MissionPhoneAceMessageType,UI,Asset 1st version in use,
+MissionPhoneAceMessageSends,SFX/UI-2D/MissionPhoneAceMessageSend,UI,Asset 1st version in use,
+MissionPhonePlayerMessageType,SFX/UI-2D/MissionPhonePlayerMessageType,UI,Asset 1st version in use,Player message appears
+MissionPhonePlayerMessageSends,SFX/UI-2D/MissionPhonePlayerMessageSend,UI,Asset 1st version in use,Player message clicked
+MissionPhoneObjectiveShow,SFX/UI-2D/MissionPhoneObjectiveShow,UI,Asset 1st version in use,Quest objective element appears in the message
+MissionPhoneObjectiveClaim,SFX/UI-2D/MissionPhoneObjectiveClaim,UI,Asset 1st version in use,Click the claim reward button in the message
+MissionPhoneJobsTabOpen,SFX/UI-2D/TeamLobbyOpen,UI,PH in use,
+MissionPhoneAchievementsTabOpen,SFX/UI-2D/TeamLobbyOpen,UI,PH in use,
+QuestRewardChestOpen,SFX/UI-2D/QuestRewardChestOpen,UI,Asset 1st version in use,
+QuestRewardChestClaim,SFX/UI-2D/QuestRewardChestClaim,UI,Asset 1st version in use,
+QuestRewardChestAppear,SFX/UI-2D/QuestRewardChestAppear,UI,PH in use,
+,,,,
+CharacterEditingOpen,SFX/Home/HomeWardrobeOpen,Home,Asset 1st version in use,wardorbe opens
+CharacterEditingClose,SFX/Home/HomeWardrobeClose,Home,Asset 1st version in use,wardorbe closes
+,,,,
+WardrobeOpen,SFX/Home/HomeWardrobeOpen,Home,Asset 1st version in use,wardorbe opens
+WardrobeClose,SFX/Home/HomeWardrobeClose,Home,Asset 1st version in use,wardorbe closes
+WardrobeSlotSelected,SFX/Home/HomeWardrobeSelect,Home,Asset 1st version in use,selecting a slot in wardrobe
+WardrobeEquipGear,SFX/Home/HomeWardrobeEquipGear,Home,Asset 1st version in use,equipping a gear in wardrobe
+WardrobeEquipBodySkin,SFX/Home/HomeWardrobeEquipClothes,Home,Asset 1st version in use,equipping a body skin in wardrobe
+WardrobeEquipSkin,SFX/Home/HomeWardrobeEquipSkin,Home,PH in use,equipping any other skin in wardrobe
+WardrobeEquipHairSkin,SFX/Home/HomeWardrobeEquipHaircut,Home,Asset 1st version in use,equipping any other skin in wardrobe
+WardrobeEquipHatSkin,SFX/Home/HomeWardrobeEquipHats,Home,Asset 1st version in use,equipping any other skin in wardrobe
+WardrobeEquipFaceSkin,SFX/Home/HomeWardrobeEquipFace,Home,Asset 1st version in use,equipping any other skin in wardrobe
+WardrobeEquipEmote,SFX/Home/HomeWardrobeEquipEmote,Home,Asset 1st version in use,equipping an emote etc  in wardrobe
+WardrobeEquipEyes,SFX/Home/HomeWardrobeEquipEyes,Home,Asset 1st version in use,equipping eyes in the character edit popup
+WardrobeEquipButtonPress,SFX/Home/HomeWardrobeEquipButtonPress,Home,,equipping an emote etc  in wardrobe
+WardrobeUITransition,SFX/Home/HomeWardrobeTransition,Home,Asset 1st version in use,UI transition when moving between states in wardrobe
+WardrobeGearSlotsTransition,SFX/Home/HomeWardrobeGearButton,Home,Asset 1st version in use,UI transition when opening gear slots
+WardrobeSkinSlotsTransition,SFX/Home/HomeWardrobeOutfitButton,Home,Asset 1st version in use,UI transition when opening skin slots
+WardrobeOpenSkinSelector,SFX/Home/HomeWardrobeFolderOpen,Home,Asset 1st version in use,UI transition when opening skin slots
+WardrobeCloseSkinSelector,SFX/Home/HomeWardrobeFolderClose,Home,Asset 1st version in use,UI transition when closing skin slots
+WardrobeOpenGearSelector,SFX/Home/HomeWardrobeFolderOpen,Home,Asset 1st version in use,UI transition when opening gear slots
+WardrobeCloseGearSelector,SFX/Home/HomeWardrobeFolderClose,Home,Asset 1st version in use,UI transition when closing gear slots
+WardrobeOpenSmallSelector,SFX/Home/HomeWardrobeFolderSmallOpen,Home,,UI transition when opening one-column of slots
+WardrobeCloseSmallSelector,SFX/Home/HomeWardrobeFolderSmallClose,Home,,UI transition when closing one-column of slots
+WardrobeRandomizeSkin,SFX/Home/HomeWardrobeDiceButton,Home,Asset 1st version in use,Pressing randmize skin button
+,,,,
+PrinterOpen,SFX/Home/HomePrinterOpen,Home,Asset 1st version in use,printer opened
+PrinterClose,SFX/Home/HomePrinterClose,Home,Asset 1st version in use,printer closed
+PrinterSelectItem,SFX/Home/HomePrinterSelect,Home,Asset 1st version in use,select an item in printer
+PrinterSelectFailed,SFX/Home/HomePrinterError,Home,Asset 1st version in use,printer select failed (don't have BP)
+PrinterOpenPanel,SFX/Home/HomePrinterOpenPanel,Home,,Open the middle detail panel in the printer UI
+PrinterPrint,SFX/Home/HomePrinterFabricate,Home,Asset 1st version in use,pressing print successfully
+PrinterPrintFailed,SFX/Home/HomePrinterError,Home,Asset 1st version in use,pressing print unsuccessfully  (not enough coins)
+PrinterUpgrade,SFX/Home/HomePrinterUpgrade,Home,Asset 1st version in use,pressing upgrade successfully
+PrinterUpgradeMajor,SFX/Home/HomePrinterUpgradeMajor,Home,Asset 1st version in use,starting to upgrade a major upgrade
+PrinterUpgradeFailed,SFX/Home/HomePrinterError,Home,Asset 1st version in use,pressing upgrade unsuccessfully  (not enough coins)
+PrinterToggleStarredOn,SFX/Home/HomePrinterToggleOn,Home,Asset 1st version in use,toggle star on
+PrinterToggleStarredOff,SFX/Home/HomePrinterToggleOff,Home,Asset 1st version in use,toggle star off
+PrinterShortcutPressed,SFX/Home/HomeShopShortcut,Home,Asset 1st version in use,shortcut pressed in the printer
+PrinterUpgradeMajorAppear,SFX/Home/HomePrinterUpgradeMajorAppear,Home,Asset 1st version in use,when printing and major upgrade appears
+PrinterUpgradeStatsAppear,SFX/Home/HomePrinterUpgradeStatsAppear,Home,Asset 1st version in use,when printer stats appear
+PrinterPrintAppear,SFX/Home/HomePrinterPrintAppear,Home,Asset 1st version in use,when the image of a printed object is being rendered
+PrinterPrintStatsAppear,SFX/Home/HomePrinterPrintStatsAppear,Home,Asset 1st version in use,when the image rendering is almost finished and the text begins to appear
+PrinterUpgradeMajorStatsAppear,SFX/Home/HomePrinterUpgradeMajorStatsAppear,Home,Asset 1st version in use,when major upgrade stats texts update
+PrinterXPAppear,SFX/Home/HomePrinterXPAppear,Home,Asset 1st version in use,XP score shown after printing or upgrading
+,,,,
+NameInputReadyClick,SFX/UI-2D/NameInputReadyClick,UI,,
+NameInputStart,SFX/UI-2D/NameInputStart,UI,,
+NameInputConfirm,SFX/UI-2D/NameInputConfirm,UI,PH in use,when name input has been done succesfully (not on button press since there will be a turnaround from name validation on server)
+NameInputFailed,SFX/UI-2D/MenuClickError,UI,Asset 1st version in use,when name submit has a new error
+,,,,
+Portal,,,,
+PortalOpen,SFX/Home/HomeOpenPortalMenu,Home,Asset 1st version in use,opening porta
+PortalClose,SFX/Home/HomePortalClose,Home,Asset 1st version in use,new map card unlock anim
+PortalCardUnlocked,SFX/Home/HomePortalMapUnlock,Home,Asset 1st version in use,new map card unlock anim
+PortalCardSelected,SFX/Home/HomePortalMapSelect,Home,Asset 1st version in use,when pressing open map card
+PortalUITransition,SFX/Home/HomePortalMapInfoAppear,Home,Asset 1st version in use,would be for portal opening transition (transition not implemented yet)
+PortalGlitchActive,SFX/Home/HomePortalMapGlitch,Home,Asset 1st version in use,when a glitch is on the screen (could this be a 3d sound)
+PortalShortCutPressed,SFX/Home/HomePortalMapShortcut,Home,Asset 1st version in use,when pressing job or glitch shortcut to auto scroll to it
+PortalBack,SFX/Home/HomePortalMapBack,Home,Asset 1st version in use,when going back from a single map to the map selector view
+PortalOpenSubMenu,SFX/Home/HomePortalSubMenuOpen,Home,,Open a Team or Solo Trials submenu
+PortalCloseSubMenu,SFX/Home/HomePortalSubMenuClose,Home,,Open a Team or Solo Trials submenu
+PortalPopupOpen,SFX/UI-2D/PopupOpenGeneric,UI,Asset 1st version in use,opening loot / chest box pop up
+PortalPopupClose,SFX/UI-2D/PopupCloseGeneric,UI,Asset 1st version in use,closing loot / chest box pop up
+PortalTabSelect,SFX/Home/HomePortalTabSelect,Home,Asset 1st version in use,Clicking any of the portal menu tabs
+,,,,
+ShopOpen,SFX/Home/HomeShopOpen,Home,Asset 1st version in use,shop opened
+ShopClose,SFX/Home/HomeShopClose,Home,Asset 1st version in use,shop opened
+TraderDealsFreebieClaimed,SFX/Home/HomeShopPurchase,Home,Asset 1st version in use,when daily gift is opened
+TraderDealsDealPurchased,SFX/Home/HomeShopPurchase,Home,Asset 1st version in use,when something is succesfully purchased
+TraderDealsMocoPlusPurchased,SFX/Home/HomeShopPurchaseMocoPlus,Home,Asset 1st version in use,When moco plus subscription is purchased
+ShopPurchaseFailed,SFX/UI-2D/MenuClickError,UI,Asset 1st version in use,shop purchase not happening – no money
+ShopPopupOpen,SFX/Home/HomeShopPopupOpen,Home,Asset 1st version in use,shop popup opens
+ShopPopupClose,SFX/Home/HomeShopPopupClose,Home,Asset 1st version in use,shop popup closes
+ShopCategoryTab,SFX/Home/HomeShopShortcut,Home,Asset 1st version in use,shop category tab clicked
+,,,,
+OutfitsOpen,SFX/Home/HomeShopOutfitsOpen,Home,Asset 1st version in use,Open the Outfits UI
+OutfitsClose,SFX/Home/HomeShopOutfitsClose,Home,Asset 1st version in use,Close the Outfits UI by clicking the X or by pressing ESC
+OutfitsCollectionOpen,SFX/Home/HomeShopOutfitsPopupOpen,Home,Asset 1st version in use,Select and open a collection
+OutfitsCollectionClose,SFX/Home/HomeShopOutfitsPopupClose,Home,Asset 1st version in use,Close a collection
+OutfitsCollectionItemOpen,SFX/Home/HomeShopOutfitsPopupOpen,Home,Asset 1st version in use,Select a collection item and enter fullscreen view mode
+OutfitsCollectionItemClose,SFX/Home/HomeShopOutfitsPopupClose,Home,Asset 1st version in use,Close the full screen collection item view
+OutfitsCollectionItemBrowseLeft,SFX/Home/HomeShopOutfitsNavigateLeft,Home,Asset 1st version in use,Browse collection items left button
+OutfitsCollectionItemBrowseRight,SFX/Home/HomeShopOutfitsNavigateRight,Home,Asset 1st version in use,Browse collection items right button
+OutfitsCollectionItemClaimAnimation,SFX/Home/HomeShopOutfitsItemClaimAnimation,Home,Asset 1st version in use,Show the checkbox marker and background vertical sweep animation
+OutfitsCollectionShowCollectedToggleOn,SFX/Home/HomePrinterToggleOn,Home,PH in use,Toggle Show Collected On
+OutfitsCollectionShowCollectedToggleOff,SFX/Home/HomePrinterToggleOff,Home,PH in use,Toggle Show Collected Off
+OutfitsCollectionPullButtonSuccess,SFX/Home/HomeShopOutfitsGachaPullButton,Home,Asset 1st version in use,Start the gacha pull
+OutfitsCollectionPullButtonFailed,SFX/UI-2D/MenuClickError,UI,Asset 1st version in use,Gacha pull not happening
+,,,,
+ParagonOpen,SFX/Home/HomeEliteHunterInterfaceOpen,Home,Asset 1st version in use,Elite hunter interface opens
+ParagonClose,SFX/Home/HomeEliteHunterInterfaceClose,Home,Asset 1st version in use,Elite hunter interface closes
+ParagonSelect,SFX/Home/HomeEliteHunterInterfaceSelect,Home,Asset 1st version in use,Elite hunter interface selection sound
+ParagonTabSelect,SFX/Home/HomeEliteHunterInterfaceSelect,Home,Asset 1st version in use,Elite hunter interface selection sound
+ParagonShopOpen,SFX/Home/HomeEliteHunterInterfaceSelectItem,Home,Asset 1st version in use,
+ParagonShopClose,SFX/Home/HomeEliteHunterInterfaceCloseItem,Home,Asset 1st version in use,
+ParagonShopPurchase,SFX/Home/HomeEliteHunterInterfaceItemPurchase,Home,Asset 1st version in use,
+ParagonPassUnlock,SFX/Home/HomeEliteHunterPassUnlock,Home,Asset 1st version in use,
+ParagonUnlock,SFX/Home/HomeEliteHunterUnlock,Home,Asset 1st version in use,
+,,,,
+BlenderOpen,SFX/Home/HomeBlenderOpen,Home,Asset 1st version in use,blender opened
+BlenderClose,SFX/Home/HomeBlenderClose,Home,Asset 1st version in use,blender opened
+StorageOpen,SFX/Home/HomeLootOpen,Home,Asset 1st version in use,storage opened
+StorageClose,SFX/Home/HomeLootClose,Home,Asset 1st version in use,storage opened
+,,,,
+MapInfoSideCategoryTransition,SFX/UI-2D/PopoverListItem,UI,Asset 1st version in use,map info category appear sound (e.g. Jobs)
+MapInfoSideItemTransition,SFX/UI-2D/PopoverListItem,UI,Asset 1st version in use,map info category sub item appear sound (e.g. One job)
+,,,,
+EnterBattlePressed,SFX/Home/HomePortalEnterBattle,Home,Asset 1st version in use,"when pressing battle, or going to loading screen in tutorial"
+EnterBattlePressedBeetle,SFX/Home/HomePortalEnterBattleBeetleWorld,Home,Asset 1st version in use,"when pressing battle, or going to loading screen in tutorial"
+EnterBattlePressedCity,SFX/Home/HomePortalEnterBattle,Home,Asset 1st version in use,"when pressing battle, or going to loading screen in tutorial"
+EnterBattlePressedDragonling,SFX/Home/HomePortalEnterBattleDragonlingWorld,Home,Asset 1st version in use,"when pressing battle, or going to loading screen in tutorial"
+EnterBattlePressedGym,SFX/Home/HomeWarehouseTransition,Home,Asset 1st version in use,"when pressing battle, or going to loading screen in tutorial"
+,,,,
+BattleTutorialPhoneRing,SFX/UI-2D/BattlePhoneRings,UI,Asset 1st version in use,when phone rings in battle in tutorial
+,,,,
+BattleSpeechBubbleAppear,SFX/Characters/Common/NPCDialogBubbleOpen,CharactersCommon,Add to effects in stead,
+BattleSpeechBubbleClose,SFX/Characters/Common/NPCDialogBubbleClose,CharactersCommon,Add to effects in stead,
+,,,,
+BattleJobsBigHeader,SFX/UI-2D/BattleTutorialHeaderAppear,UI,Asset 1st version in use,YOUR FIRST JOB banner in first tutorial
+BattleJobsSubHeader,SFX/UI-2D/PopoverListItem,UI,Asset 1st version in use,Jobs sub header in tutorial
+BattleJobAppear,SFX/UI-2D/BattleJobAppear,UI,Asset 1st version in use,job appear anim in battle
+BattleJobCountUp,SFX/UI-2D/GoalIncrease,UI,Asset 1st version in use,when getting progress to jobs in battle
+BattleJobComplete,SFX/UI-2D/BannerGoalComplete,UI,Asset 1st version in use,when a job is completed in battle
+,,,,
+BannerLevelUp,SFX/UI-2D/BannerLevelUp,UI,Asset 1st version in use,
+BannerAchievement,SFX/UI-2D/BannerReward,UI,Asset 1st version in use,
+BannerNewDrop,SFX/UI-2D/BannerNewGear,UI,Asset 1st version in use,
+BannerNewGear,SFX/UI-2D/BannerNewGear,UI,Asset 1st version in use,
+BannerEvent,SFX/UI-2D/BannerEvent,UI,Asset 1st version in use,
+BannerClose,SFX/UI-2D/BannerClose,UI,Asset 1st version in use,
+,,,,
+FlyingXpEmit,SFX/UI-2D/XPEmit,UI,Asset 1st version in use,
+FlyingXpToBar,SFX/UI-2D/XPCollect,UI,Asset 1st version in use,
+BattleXpBarLeveUp,SFX/UI-2D/TextMessageOpen,UI,,
+,,,,
+FlyingGemEmit,SFX/UI-2D/XPEmit,UI,Asset 1st version in use,
+FlyingGemToBar,SFX/UI-2D/MocoCoinCollectHome,UI,Asset 1st version in use,
+FlyingMocoCoinToBar,SFX/UI-2D/MocoCoinCollectHome,UI,Asset 1st version in use,
+,,,,
+FlyingResourceEmit,SFX/UI-2D/ChaosCubeEmit,UI,Asset 1st version in use,
+FlyingResourceToBar,SFX/UI-2D/ChaosCubeCollect,UI,Asset 1st version in use,
+,,,,
+ParagonTokenEmit,SFX/UI-2D/ParagonTokenEmit,UI,Asset 1st version in use,
+ParagonTokenToBar,SFX/UI-2D/ParagonTokenCollect,UI,Asset 1st version in use,
+,,,,
+BurgerMenuOpened,SFX/UI-2D/BurgerMenuOpen,UI,Asset 1st version in use,
+BurgerMenuClosed,SFX/UI-2D/BurgerMenuClose,UI,Asset 1st version in use,
+,,,,
+LevelUpOpen,SFX/UI-2D/ResultsLevelUpAppear,UI,Asset 1st version in use,
+LevelUpEmblemNew,SFX/UI-2D/ResultsLevelUpNewEmblem,UI,Asset 1st version in use,
+LevelUpClose,SFX/UI-2D/MenuClickSwipe,UI,Asset 1st version in use,
+LevelUpMaxGearAppear,SFX/UI-2D/ResultsLevelUpNewMapAppear,UI,PH in use,
+LevelUpHpIncreaseAppear,SFX/UI-2D/ResultsLevelUpNewMapAppear,UI,PH in use,
+LevelUpFeatureUnlockAppear,SFX/UI-2D/ResultsLevelUpNewMapAppear,UI,PH in use,
+LevelUpNewSlotAppear,SFX/UI-2D/ResultsLevelUpNewMapAppear,UI,PH in use,
+LevelUpSpecialityAppear,SFX/UI-2D/ResultsLevelUpNewMapAppear,UI,PH in use,
+LevelUpNewMapAppear,SFX/UI-2D/ResultsLevelUpNewMapAppear,UI,Asset 1st version in use,
+LevelUpDungeonsAppear,SFX/UI-2D/ResultsLevelUpNewMapAppear,UI,PH in use,
+LevelUpNewProjextsAppear,SFX/UI-2D/ResultsLevelUpNewMapAppear,UI,PH in use,
+ParagonLevelUpReached,SFX/UI-2D/ResultsLevelUpAppear,UI,Asset 1st version in use,
+ParagonLevelUpOpen,SFX/UI-2D/ResultsLevelUpParagonAppear,UI,Asset 1st version in use,
+PlayerGainedLevelPopupFadeInShake,SFX/UI-2D/PlayerGainedLevelPopupFadeInShake,UI,New animation UI trigger from Rauli – Level up screen start,
+PlayerGainedLevelPopupBadgeAppear,SFX/UI-2D/PlayerGainedLevelPopupBadgeAppear,UI,New animation UI trigger from Rauli – Level up badge appear,
+PlayerGainedLevelPopupUnlockAppear,SFX/UI-2D/PlayerGainedLevelPopupUnlockAppear,UI,New animation UI trigger from Rauli – Level up stats texts appear,
+GearUpgradedScreenFadeInIcon3D,SFX/UI-2D/GearUpgradedScreenFadeInIcon3D,UI,New animation UI trigger from Rauli – Gear Upgrade screen icon fade in,
+GearUpgradedScreenFadeInIcon,SFX/UI-2D/GearUpgradedScreenFadeInIcon,UI,New animation UI trigger from Rauli – Gear Upgrade screen icon fade in,
+GearUpgradedScreenFadeInShake,SFX/UI-2D/GearUpgradedScreenFadeInShake,UI,New animation UI trigger from Rauli – New texts appear,
+GearUpgradedScreenTextFade,SFX/UI-2D/GearUpgradedScreenTextFade,UI,New animation UI trigger from Rauli – Gear Upgrade stats appear,
+GearUpgradedScreenInfoFadeInIcon3D,SFX/UI-2D/GearUpgradedScreenInfoFadeInIcon3D,UI,New animation UI trigger from Rauli – Gear Upgrade info appears in the gear chest,
+GearUpgradedScreenInfoFadeInIcon,SFX/UI-2D/GearUpgradedScreenInfoFadeInIcon,UI,New animation UI trigger from Rauli – Gear Upgrade info appears in the gear chest,
+,,,,
+BattleEndStart,SFX/UI-2D/ResultsEnter,UI,Asset 1st version in use,
+BattleEndNewMountAppear,SFX/UI-2D/ResultsNewSkinAppear,UI,PH in use,
+BattleEndNewSkinAppear,SFX/UI-2D/ResultsNewSkinAppear,UI,Asset 1st version in use,
+BattleEndNewSkinBadgeUpdate,SFX/UI-2D/ResultsNewSkinBadgeUpdate,UI,Asset 1st version in use,
+BattleEndNewSkinTextAppear,SFX/UI-2D/ResultsBlueprintTextAppear,UI,Asset 1st version in use,
+BattleEndNewBlueprintAppear,SFX/UI-2D/ResultsBlueprintAppear,UI,Asset 1st version in use,
+BattleEndNewBlueprintTextAppear,SFX/UI-2D/ResultsBlueprintTextAppear,UI,Asset 1st version in use,
+BattleEndNewLocationAppear,SFX/UI-2D/ResultsLocationAppear,UI,Asset 1st version in use,
+BattleEndNewPowerstoneAppear,SFX/UI-2D/ResultsNewPowerstoneAppear,UI,Asset 1st version in use,
+BattleEndNewGearAppear,SFX/UI-2D/ResultsNewGearAppear,UI,Asset 1st version in use,
+BattleEndNewRecipe,SFX/UI-2D/ResultsNewPotionAppear,UI,Asset 1st version in use,
+BattleEndTransition,SFX/UI-2D/ResultsTransition01,UI,Asset 1st version in use,
+BattleEndItemEnterExperienceEarned,SFX/UI-2D/ResultsItemEnterExperienceEarned,UI,Asset 1st version in use,
+BattleEndItemEnterExperienceEarnedNone,SFX/UI-2D/ResultsItemEnter,UI,PH in use,
+BattleEndItemEnterGoals,SFX/UI-2D/ResultsItemEnter,UI,PH in use,
+BattleEndItemEnterTextTitle,SFX/UI-2D/ResultsItemEnter,UI,PH in use,
+BattleEndItemEnterRewards,SFX/UI-2D/ResultsItemEnter,UI,PH in use,
+BattleEndItemEnterMaterials,SFX/UI-2D/ResultsItemEnter,UI,Asset 1st version in use,
+BattleEndItemEnterProjects,SFX/UI-2D/ResultsProjectEnter,UI,Asset 1st version in use,
+BattleEndItemEnterProjectsCompleted,SFX/UI-2D/ResultsProjectCompletedEnter,UI,Asset 1st version in use,
+BattleEndItemEnterDailyJobs,SFX/UI-2D/ResultsDailyJobEnter,UI,Asset 1st version in use,
+BattleEndItemEnterDailyJobsCompleted,SFX/UI-2D/ResultsDailyJobCompletedEnter,UI,Asset 1st version in use,
+BattleEndItemLevelUp,SFX/UI-2D/ResultsItemEnter,UI,Asset 1st version in use,
+BattleEndContinueClick,SFX/UI-2D/ResultsNewStuffClick,UI,PH in use,
+BattleEndNewStuffClick,SFX/UI-2D/ResultsNewStuffClick,UI,Asset 1st version in use,
+BattleEndItemEnterStats,SFX/UI-2D/ResultsButtonAppear,UI,PH in use,
+BattleEndNewRewardClaim,SFX/UI-2D/ResultsNewRewardClaimButton,UI,Asset 1st version in use,
+,,,,
+TeamOpen,SFX/UI-2D/TeamLobbyOpenWithVoice,UI,Asset 1st version in use,
+TeamClose,SFX/UI-2D/TeamLobbyCloseWithVoice,UI,Asset 1st version in use,
+,,,,
+PlayerProfileOpen,SFX/UI-2D/PlayerProfileOpen,UI,,
+InviteOpen,SFX/UI-2D/InviteOpen,UI,,
+FriendsOpen,SFX/UI-2D/FriendsOpen,UI,,
+,,,,
+EventOpen,SFX/UI-2D/EventsOpenWithVoice,UI,,
+EventClose,SFX/UI-2D/EventsCloseWithVoice,UI,,
+,,,,
+AchievementsOpen,SFX/UI-2D/TeamLobbyOpen,UI,Asset 1st version in use,
+AchievementsClose,SFX/UI-2D/TeamLobbyClose,UI,Asset 1st version in use,
+AchievementClaimed,SFX/UI-2D/RewardsProgramClaim,UI,Asset 1st version in use,
+HeroPointEmit,SFX/UI-2D/GemCountIncrease,UI,PH in use,
+HeroPointToBar,SFX/UI-2D/GemCountIncrease,UI,PH in use,
+,,,,
+PlayerSkillRecharged,SFX/UI-2D/PlayerSkillRecharged,UI,Asset 1st version in use,
+PlayerEmotesRecharged,SFX/UI-2D/PlayerEmoteRecharged,UI,Asset 1st version in use,
+BossNearbyIndicatorAppear,SFX/UI-2D/BossNearbyIndicatorAppear,UI,Asset 1st version in use,
+EliteBossNearbyIndicatorAppear,SFX/UI-2D/EliteBossNearbyIndicatorAppear,UI,Asset 1st version in use,
+MegaEliteBossNearbyIndicatorAppear,SFX/UI-2D/MegaEliteBossNearbyIndicatorAppear,UI,Asset 1st version in use,
+BossAttackAlertSmall,SFX/UI-2D/BossAttackAlertSmall01,UI,Asset 1st version in use,
+ProjectUpdatedIndicatorAppear,SFX/UI-2D/ProjectUpdateIncrease,UI,Asset 1st version in use,
+ProjectCompletedIndicatorAppear,SFX/UI-2D/ProjectUpdateCompleted,UI,Asset 1st version in use,
+,,,,
+PlayerGlitchedOut,SFX/UI-2D/PlayerGlitchedOut,UI,,
+PlayerRespawn,SFX/UI-2D/PlayerRespawn,UI,,
+GlitchedOutCounter,SFX/UI-2D/GlitchedOutCounterZero,UI,,
+,SFX/UI-2D/GlitchedOutCounterOne,UI,,
+,SFX/UI-2D/GlitchedOutCounterTwo,UI,,
+,SFX/UI-2D/GlitchedOutCounterThree,UI,,
+,SFX/UI-2D/GlitchedOutCounterGeneric,UI,,
+,,,,
+TrialsWaveNew,SFX/UI-2D/TrialsNewWave,UI,Asset 1st version in use,
+TrialsWavesOver,SFX/UI-2D/TrialsOver,UI,PH in use,
+TrialsGoal1Achieved,SFX/UI-2D/TrialsGoal1Achieved,UI,Asset 1st version in use,
+TrialsGoal2Achieved,SFX/UI-2D/TrialsGoal2Achieved,UI,Asset 1st version in use,
+TrialsGoal3Achieved,SFX/UI-2D/TrialsGoal3Achieved,UI,Asset 1st version in use,
+TrialsGoalShow,SFX/UI-2D/TrialsGoalNotAchieved,UI,Asset 1st version in use,
+TrialsNewRecord,SFX/UI-2D/TrialsNewRecord,UI,Asset 1st version in use,
+TrialsMonstersAngry,SFX/UI-2D/TrialsMonstersAngry,UI,Asset 1st version in use,
+TrialsVictory,SFX/UI-2D/TrialsVictory,UI,Asset 1st version in use,
+TrialsDefeat,SFX/UI-2D/TrialsDefeated,UI,Asset 1st version in use,
+TrialsRiftDefeat,SFX/UI-2D/TrialsRiftDefeat,UI,Asset 1st version in use,
+TrialsRiftVictory,SFX/UI-2D/TrialsRiftVictory,UI,Asset 1st version in use,
+TrialsPVPDefeat,SFX/UI-2D/TrialsPVPDefeat,UI,Asset 1st version in use,
+TrialsPVPVictory,SFX/UI-2D/TrialsPVPVictory,UI,Asset 1st version in use,
+TrialsPVPDoublePoints,SFX/UI-2D/TrialsPVPDoublePoints,UI,Asset 1st version in use,
+TrialsPVPPlayerKilled,SFX/UI-2D/TrialsPVPPlayerKilled,UI,Asset 1st version in use,
+TrialsRiftUnstable,SFX/UI-2D/TrialsRiftUnstable,UI,Asset 1st version in use,
+TrialsRiftUnstableCounter,SFX/UI-2D/TrialsRiftUnstableCounter,UI,Asset 1st version in use,
+NewBeltAchieved,SFX/UI-2D/NewBeltAchieved,UI,Asset 1st version in use,
+NewBeltPoints,SFX/UI-2D/NewBeltPoints,UI,Asset 1st version in use,
+,,,,
+AgeSliderTick,SFX/UI-2D/AgeSelectTicker,UI,,
+DefaultSliderTick,SFX/UI-2D/DefaultSliderTicker,UI,,
+,,,,
+RadioInteract,SFX/Home/HomeRadioInteract,Home,done,
+EnvironmentalThunder,Ambiences/EnvironmentalThunder,EnvironmentalThunder,done,
+EnvironmentalTornado,Ambiences/EnvironmentalTornadoStorm,EnvironmentalTornado,done,
+EnvironmentalStopSounds,Ambiences/EnvironmentalStopSounds,Master,done,
+,,,,
+CurrentOnes,,,,
+CollectHeartLarge,SFX/UI-Ingame3D/CollectHeartLarge,UI,,
+LevelUpPopupOpen,SFX/UI-2D/LevelUpPopupOpen,UI,,
+CollectGem,SFX/UI-Ingame3D/CollectGem,UI,,
+LevelUpPopupClose,SFX/UI-2D/LevelUpPopupClose,UI,,
+CollectHeartSmall,SFX/UI-Ingame3D/CollectHeartSmall,UI,,
+GoalComplete,SFX/UI-2D/GoalComplete,UI,,
+GemCountIncrease,SFX/UI-2D/GemCountIncrease,UI,,
+CollectGeneric,SFX/UI-Ingame3D/CollectGeneric,UI,,
+CollectScales,SFX/UI-2D/CollectScales,UI,,
+GoalIncrease,SFX/UI-2D/GoalIncrease,UI,,
+,,,,
+GameIntro,SFX/Home/Common/RogueJingle,Master,Asset 1st version in use,
+,,,,
+WindowOpen,Snapshots/WindowOpen,Master,,
+LevelStart,Snapshots/LevelStart,Master,,
+,,,,
+Ph,Snapshots/WindowOpen,Master,,
+GenericRewardAppear,SFX/UI-2D/GoalComplete,UI,,
+,,,,
+EventPassUnlock,SFX/UI-2D/EventPassUnlock,UI,,
+EventItemClaim,SFX/UI-2D/EventItemClaim,UI,,
+EventItemChaosChestClaim,SFX/UI-2D/EventItemChaosChestClaim,UI,,
+EventTabButton,SFX/UI-2D/EventTabButton,UI,,
+,,,,
+FeatureUnlockScreenDragonWorld,SFX/UI-2D/FeatureUnlockScreenDragonlingWorld,UI,Asset 1st version in use,
+FeatureUnlockScreenBugWorld,SFX/UI-2D/FeatureUnlockScreenBeetleWorld,UI,Asset 1st version in use,
+FeatureUnlockScreenRift_0,SFX/UI-2D/FeatureUnlockScreenRift00,UI,Asset 1st version in use,
+FeatureUnlockScreenRift_1A,SFX/UI-2D/FeatureUnlockScreenRift01A,UI,Asset 1st version in use,
+FeatureUnlockScreenRift_1B,SFX/UI-2D/FeatureUnlockScreenRift01B,UI,Asset 1st version in use,
+FeatureUnlockScreenRift_1C,SFX/UI-2D/FeatureUnlockScreenRift01C,UI,Asset 1st version in use,
+FeatureUnlockScreenRift_2A,SFX/UI-2D/FeatureUnlockScreenRift02A,UI,Asset 1st version in use,
+FeatureUnlockScreenDojo,SFX/UI-2D/FeatureUnlockScreenDojo,UI,Asset 1st version in use,
+FeatureUnlockScreenPvp,SFX/UI-2D/FeatureUnlockScreenPVP,UI,Asset 1st version in use,
+FeatureUnlockScreenShop,SFX/UI-2D/FeatureUnlockScreenShop,UI,Asset 1st version in use,
+FeatureUnlockScreenEventPass,SFX/UI-2D/FeatureUnlockScreenEventPass,UI,Asset 1st version in use,
+FeatureUnlockScreenEliteTease,SFX/UI-2D/FeatureUnlockScreenEliteTease,UI,Asset 1st version in use,
+FeatureUnlockScreenCH2Cats,SFX/UI-2D/FeatureUnlockScreenCH2Cats,UI,Asset 1st version in use,
+FeatureUnlockScreenCH2Rift_2A,SFX/UI-2D/FeatureUnlockScreenCH2Rift2A,UI,Asset 1st version in use,
+FeatureUnlockScreenCH2Rift_2B,SFX/UI-2D/FeatureUnlockScreenCH2Rift2B,UI,Asset 1st version in use,
+FeatureUnlockScreenCH2Rift_2C,SFX/UI-2D/FeatureUnlockScreenCH2Rift2C,UI,Asset 1st version in use,
+FeatureUnlockScreenCH2Rift_2D,SFX/UI-2D/FeatureUnlockScreenCH2Rift2D,UI,Asset 1st version in use,
+FeatureUnlockScreenCH2Rift_2E,SFX/UI-2D/FeatureUnlockScreenCH2Rift2E,UI,Asset 1st version in use,
+FeatureUnlockScreenCH2Rift_2F,SFX/UI-2D/FeatureUnlockScreenCH2Rift2F,UI,Asset 1st version in use,
+,,,,
+ChatOpen,SFX/UI-2D/ChatOpen,UI,,
+ChatClose,SFX/UI-2D/ChatClose,UI,,
+ChatAgreeButton,SFX/UI-2D/ChatAgreeButton,UI,,
+ChatSidepanelSelect,SFX/UI-2D/ChatSidepanelSelect,UI,,
+ChatNewGroupButton,SFX/UI-2D/ChatNewGroupButton,UI,,
+ChatNewGroupCancel,SFX/UI-2D/ChatNewGroupCancel,UI,,
+ChatNewGroupCreate,SFX/UI-2D/ChatNewGroupCreate,UI,,
+ChatGroupSelect,SFX/UI-2D/ChatGroupSelect,UI,,
+ChatGroupPopupJoinButton,SFX/UI-2D/ChatGroupPopupJoinButton,UI,,
+ChatGroupPopupCancelButton,SFX/UI-2D/ChatGroupPopupCancelButton,UI,,
+ChatCommonBackButton,SFX/UI-2D/ChatCommonBackButton,UI,,
+ChatCommonGenericClick,SFX/UI-2D/ChatCommonGenericClick,UI,,
+ChatCommonPopupOpen,SFX/UI-2D/ChatCommonPopupOpen,UI,,
+ChatCommonPopupClose,SFX/UI-2D/ChatCommonPopupClose,UI,,
+ChatCommonPopupError,SFX/UI-2D/ChatCommonPopupError,UI,,
+ChatCommonTransitionRight,SFX/UI-2D/ChatCommonTransitionRight,UI,,
+ChatCommonTransitionLeft,SFX/UI-2D/ChatCommonTransitionLeft,UI,,
+ChatCommonShowKeyboard,SFX/UI-2D/ChatCommonShowKeyboard,UI,,
+ChatCommonHideKeyboard,SFX/UI-2D/ChatCommonHideKeyboard,UI,,
+ChatChannelViewSendMessage,SFX/UI-2D/ChatChannelViewSendMessage,UI,,
+ChatChannelViewReceiveMessage,SFX/UI-2D/ChatChannelViewReceiveMessage,UI,,
+ChatChannelViewEmojiPopupOpen,SFX/UI-2D/ChatChannelViewEmojiPopupOpen,UI,,
+ChatChannelViewEmojiPopupClose,SFX/UI-2D/ChatChannelViewEmojiPopupClose,UI,,
+ChatChannelViewInfoButton,SFX/UI-2D/ChatChannelViewInfoButton,UI,,
+ChatChannelViewMessageContextMenuOpen,SFX/UI-2D/ChatChannelViewMessageContextMenuOpen,UI,,
+,,,,
+MocoPreIntroSplashAnimation,SFX/Home/Common/MocoIntro01,Master,Asset 1st version in use,

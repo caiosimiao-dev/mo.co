@@ -1,0 +1,397 @@
+Name,Type,Action,IntParameters,FloatParameters,StringParameters,BoolParameters,BindValueKey,BindCallbackKey,Description
+string,string,string,int,float,string,boolean,string,string,string
+ResetAccount,Default,ResetAccount,,,,,,,Resets the account and reloads the game
+ResetKeychain,Default,ResetKeychain,,,,,,,Resets variable in the keychain (not up to date with current setup)
+Account1,Default,Account1,,,,,,,Changes to account 1
+Account2,Default,Account2,,,,,,,Changes to account 2
+Account3,Default,Account3,,,,,,,Changes to account 3
+AccountInfo,Default,AccountInfo,,,,,,,Opens a new menu that contains account ID and SCID
+SCIDSwitch,Default,SCIDSwitch,,,,,,,
+SCIDLogin,Default,SCIDLogin,,,,,,,Opens SCID login menu
+ToggleHudPrint,Default,ToggleHudPrint,,,,,,,Toggles between debug HUD states
+ToggleHud,Default,ToggleHud,,,,,,,Toggles between game HUD states
+ToggleDebugMenuButtonVisibility,Default,ToggleDebugMenuButtonVisibility,,,,,,,Show / hide button to open debug menu. Button still clickable while hidden
+ToggleSlowMotion,Default,ToggleSlowMotion,,,,,,,Toggles between 0.5x and 1x speed
+TriggerMemoryWarning,Default,TriggerMemoryWarning,,,,,,,Triggers memory warning
+PrintPoolSize,Default,PrintPoolSize,,,,,,,Prints object pool sizes
+MemLeak,Default,MemLeak,,,,,,,Leaks memory (allocates memory and makes it unreachable)
+Crash,Default,Crash,,,,,,,Forces crash (dereferences null pointer)
+FlipOrientation,Default,FlipOrientation,,,,,,,
+ToggleTIDs,Default,ToggleTIDs,,,,,,,
+TestContentUpdate,Default,TestContentUpdate,,,,,,,
+TestDefferedDL,Default,TestDefferedDL,,,,,,,
+Restart,Default,Restart,,,,,,,Restarts the game
+ChangeName,Default,ChangeName,,,,,,,
+FastforwardAndLoadMin,Default,FastforwardAndLoad,60,,,,,,
+FastforwardAndLoadHour,Default,FastforwardAndLoad,3600,,,,,,
+FastforwardAndLoadDay,Default,FastforwardAndLoad,86400,,,,,,
+SaveScene,Default,SaveScene,,,,,,,
+DeeplinkTeam,Default,DeeplinkTeam,,,,,,,
+DeeplinkPlayer,Default,DeeplinkPlayer,,,,,,,
+ToggleEndTurns,Default,ToggleEndTurns,,,,,,,
+DeeplinkAskToJoin,Default,DeeplinkAskToJoin,,,,,,,
+DeeplinkPlayerError,Default,DeeplinkPlayerError,,,,,,,
+DeeplinkTest,Default,DeeplinkTest,,,,,,,
+DeeplinkTestFromClipboard,Default,DeeplinkTestFromClipboard,,,,,,,
+DeeplinkTestSpellfactory,Default,DeeplinkTestSpellfactory,,,,,,,
+DeeplinkTestInvite,Default,DeeplinkTestInvite,,,,,,,
+ClearInvite,Default,ClearInvite,,,,,,,
+ToggleInvitesLeft,Default,ToggleInvitesLeft,,,,,,,
+InviteOnlyMode,Default,InviteOnlyMode,,,,,,,
+DeeplinkScanQR,Default,DeeplinkScanQR,,,,,,,
+SetSupportedCreator,Default,SetSupportedCreator,,,,,,,
+ReloadTileMap,Default,ReloadTileMap,,,,,,,
+MapEditor,Default,MapEditor,,,,,,,
+ToggleStorageAddIngredientsHack,Default,ToggleStorageAddIngredientsHack,,,,,,,
+TestDebuggerError,Default,TestDebuggerError,,,,,,,
+ChangeLanguageNext,Default,ChangeLanguage,1,,,,,,
+ChangeLanguagePrev,Default,ChangeLanguage,-1,,,,,,
+ClearFont,Default,ClearFont,,,,,,,
+ChangeFont,Default,ChangeFont,,,,,,,
+PlayLocalVideo,Default,PlayLocalVideo,,,,,,,
+PlayOnlineVideo,Default,PlayOnlineVideo,,,,,,,
+StepOneFrame,Default,StepOneFrame,,,,,,,
+BattleMegaSpeed,Default,BattleMegaSpeed,,,,,,,Makes battle progress mega fast
+ToggleZoomInCamera,Default,ToggleZoomInCamera,,,,,,,
+HapticSuccess,Default,Haptic,0,,,,,,(Mobile only) Performs a success haptic event
+HapticError,Default,Haptic,1,,,,,,(Mobile only) Performs an error haptic event
+HapticWarning,Default,Haptic,2,,,,,,(Mobile only) Performs a warning haptic event
+HapticHeavy,Default,Haptic,3,,,,,,(Mobile only) Performs a heavy haptic event
+HapticMedium,Default,Haptic,4,,,,,,(Mobile only) Performs a medium haptic event
+HapticLight,Default,Haptic,5,,,,,,(Mobile only) Performs a light haptic event
+HapticSelection,Default,Haptic,6,,,,,,(Mobile only) Performs a selection haptic event
+IncrementQuests,Default,IncrementQuests,,,,,,,
+DebugQuestCompletion,Default,DebugQuestCompletion,,,,,,,
+PrintActiveTutorial,Default,PrintActiveTutorial,,,,,,,
+OnlineWinDungeon,Default,OnlineWinDungeon,,,,,,,
+OnlineLoseDungeon,Default,OnlineLoseDungeon,,,,,,,
+OnlineEnableEnvEffect,Default,OnlineEnableEnvEffect,,,,,,,
+OnlineImmortality,Default,OnlineImmortality,,,,,,,Toggles between immortality off / prevent damage / prevent death states
+OnlineRemoveBots,Default,OnlineRemoveBots,,,,,,,
+OnlineQuickCooldowns,Default,OnlineQuickCooldowns,,,,,,,Sets the cooldown of gear to 0.3s. Does not affect gear already on cooldown.
+ToggleShowAllChestsOnMap,Default,ToggleShowAllChestsOnMap,,,,,,,
+BattleEndPreview,Default,BattleEndPreview,,,,,,,Opens a new menu where you can setup and preview a battle end screen
+UnlockMainQuest,Default,UnlockMainQuest,,,,,,,Opens a new menu that allows you to unlock quests. All other quests are hidden (toggled by pressing the quest name in the menu)
+UnlockSkinsForCode,Default,UnlockSkinsForCode,,,,,,,Opens a new menu that contains buttons to unlock any skin collection in the skin csv
+ToggleOfflineMapEvents,Default,ToggleOfflineMapEvents,,,,,,,
+ToggleDebugEmitters,Default,ToggleDebugEmitters,,,,,,,
+ToggleTestNewMapPopups,Default,ToggleTestNewMapPopups,,,,,,,
+ToggleTestXpLevelPopups,Default,ToggleTestXpLevelPopups,,,,,,,
+ToggleTestUiStuff,Default,ToggleTestUiStuff,,,,,,,
+TestNativePopup,Default,TestNativePopup,,,,,,,
+PrintAllGearStats,Default,PrintAllGearStats,,,,,,,
+RequestLatencyTestResults,Default,RequestLatencyTestResults,,,,,,,
+TriggerLatencyTests,Default,TriggerLatencyTests,,,,,,,
+RunCsvModifier,Default,RunCsvModifier,,,,,,,
+RunCsvCopyData,Default,RunCsvCopyData,,,,,,,
+TestSound,Default,TestSound,,,,,,,
+SetLocale,Default,SetLocale,,,,,,,(Generated) Sets the locale. Takes a parameter for the locale index (int).
+SwitchGameSceneResolutionScale,Default,SwitchGameSceneResolutionScale,,,,,,,
+ToggleBoombox,Default,ToggleBoombox,,,,,,,
+ToggleSelfhelp,Default,ToggleSelfhelp,,,,,,,
+ToggleBuildingState,Default,ToggleBuildingState,,,,,,,
+WardrobeScreenshotMode,Default,WardrobeScreenshotMode,,,,,,,
+BetaEndPopup,Default,BetaEndPopup,,,,,,,
+BetaHasEndedLoginFailedDialog,Default,BetaHasEndedLoginFailedDialog,,,,,,,
+ToggleDataNames,Default,ToggleDataNames,,,,,,,
+OpenLeaderboards,Default,OpenLeaderboards,,,,,,,
+ToggleSendOfflineTeamUpdates,Default,ToggleSendOfflineTeamUpdates,,,,,,,
+ToggleSurveys,Default,ToggleSurveys,,,,,,,
+SurveyComplete,Default,SurveyComplete,,,,,,,
+SurveyDismiss,Default,SurveyDismiss,,,,,,,
+TestSurvey,Default,TestSurvey,,,,,,,
+LoadAssetLoadGroup,Default,LoadAssetLoadGroup,,,,,,,
+FreeAssetLoadGroup,Default,FreeAssetLoadGroup,,,,,,,
+TestAssetLoadGroup,Default,TestAssetLoadGroup,,,,,,,
+ToggleHudDebug,Default,ToggleHudDebug,,,,,,,
+OpenTestUi,Default,OpenTestUi,,,,,,,
+ReturnHome,Default,ReturnHome,,,,,,,
+CompleteMainMissions,Default,CompleteMainMissions,,,,,,,
+SaveState,Default,SaveState,,,,,,,
+LoadState,Default,LoadState,,,,,,,
+TestSceenFlash,Default,TestSceenFlash,,,,,,,
+ReplayMenu,Default,ReplayMenu,,,,,,,
+DumpFrameJson,Default,DumpFrameJson,,,,,,,
+GearBalancingMenu,Default,GearBalancingMenu,,,,,,,
+QuickRunGearBalancing,Default,QuickRunGearBalancing,,,,,,,
+LogicSimulationQuickRun,Default,LogicSimulationQuickRun,,,,,,,
+ParagonPurchaseConfirmScreenXp,Default,ParagonPurchaseConfirmScreenOffset,,0.1,,,,,
+ParagonPurchaseConfirmScreenXn,Default,ParagonPurchaseConfirmScreenOffset,,-0.1,,,,,
+ParagonPurchaseConfirmScreenYp,Default,ParagonPurchaseConfirmScreenOffset,,0,,,,,
+,,,,0.1,,,,,
+ParagonPurchaseConfirmScreenYn,Default,ParagonPurchaseConfirmScreenOffset,,0,,,,,
+,,,,-0.1,,,,,
+ParagonPurchaseConfirmScreenZp,Default,ParagonPurchaseConfirmScreenOffset,,0,,,,,
+,,,,0,,,,,
+,,,,0.1,,,,,
+ParagonPurchaseConfirmScreenZn,Default,ParagonPurchaseConfirmScreenOffset,,0,,,,,
+,,,,0,,,,,
+,,,,-0.1,,,,,
+ParagonPurchaseConfirmScreenCosP,Default,ParagonPurchaseConfirmScreenCos,,0.1,,,,,
+ParagonPurchaseConfirmScreenCosN,Default,ParagonPurchaseConfirmScreenCos,,-0.1,,,,,
+ParagonPurchaseConfirmScreenSinP,Default,ParagonPurchaseConfirmScreenSin,,0.1,,,,,
+ParagonPurchaseConfirmScreenSinN,Default,ParagonPurchaseConfirmScreenSin,,-0.1,,,,,
+ParagonPurchaseConfirmScreenSpeedP,Default,ParagonPurchaseConfirmScreenSpeed,,0.1,,,,,
+ParagonPurchaseConfirmScreenSpeedN,Default,ParagonPurchaseConfirmScreenSpeed,,-0.1,,,,,
+ParagonPurchaseConfirmScreenStartAngleP,Default,ParagonPurchaseConfirmScreenStartAngle,,0.1,,,,,
+ParagonPurchaseConfirmScreenStartAngleN,Default,ParagonPurchaseConfirmScreenStartAngle,,-0.1,,,,,
+ParagonPurchaseConfirmScreenMaxAngleP,Default,ParagonPurchaseConfirmScreenMaxAngle,,0.1,,,,,
+ParagonPurchaseConfirmScreenMaxAngleN,Default,ParagonPurchaseConfirmScreenMaxAngle,,-0.1,,,,,
+FeatureUnlockPopup,Default,FeatureUnlockPopup,,,,,,,
+PromoPopupDeeplinkTestOpenWeb,Default,PromoPopupDeeplinkTest,,,OpenWeb,,,,Creates a test promo popup with embedded OpenWeb deeplink. Informs if the given parameters are not valid.
+,,,,,https://www.google.com/search?q=success,,,,
+PromoPopupDeeplinkTestOpenShop,Default,PromoPopupDeeplinkTest,,,OpenShop,,,,Creates a test promo popup with embedded OpenShop deeplink. Informs if the given parameters are not valid.
+PromoPopupDeeplinkTestOpenShopOfferBundle,Default,PromoPopupDeeplinkTest,,,OpenShopOfferBundle,,,,Creates a test promo popup with embedded OpenShopOfferBundle deeplink. Informs if the given parameters are not valid.
+,,,123125,,,,,,
+PromoPopupDeeplinkTestShare,Default,PromoPopupDeeplinkTest,,,Share,,,,Creates a test promo popup with embedded Share deeplink. Informs if the given parameters are not valid.
+,,,,,Success!,,,,
+PromoPopupDeeplinkTestOpenPlayerProfile,Default,PromoPopupDeeplinkTest,,,OpenPlayerProfile,,,,Creates a test promo popup with embedded OpenPlayerProfile deeplink. Informs if the given parameters are not valid.
+,,,,,#G2LPJY,,,,
+PromoPopupDeeplinkTestOpenEvents,Default,PromoPopupDeeplinkTest,,,OpenEvents,,,,Creates a test promo popup with embedded OpenEvents deeplink. Informs if the given parameters are not valid.
+,,,5,,,,,,
+,,,,,event,,,,
+PromoPopupDeeplinkTestJoinTeam,Default,PromoPopupDeeplinkTest,,,JoinTeam,,,,Creates a test promo popup with embedded JoinTeam deeplink. Informs if the given parameters are not valid.
+,,,,,asd,,,,
+PromoPopupDeeplinkTestJoinOrCreateTeam,Default,PromoPopupDeeplinkTest,,,JoinOrCreateTeam,,,,Creates a test promo popup with embedded JoinOrCreateTeam deeplink. Informs if the given parameters are not valid.
+,,,,,asd,,,,
+PromoPopupDeeplinkTestSurveyCompleted,Default,PromoPopupDeeplinkTest,,,SurveyCompleted,,,,Creates a test promo popup with embedded SurveyCompleted deeplink. Informs if the given parameters are not valid.
+PromoPopupDeeplinkTestOpenEliteHunter,Default,PromoPopupDeeplinkTest,,,OpenEliteHunter,,,,Creates a test promo popup with embedded OpenEliteHunter deeplink. Informs if the given parameters are not valid.
+PromoPopupDeeplinkTestAddPlayerToTeam,Default,PromoPopupDeeplinkTest,,,AddPlayerToTeam,,,,Creates a test promo popup with embedded AddPlayerToTeam deeplink. Informs if the given parameters are not valid.
+,,,,,asd,,,,
+PromoPopupDeeplinkTestVoucher,Default,PromoPopupDeeplinkTest,,,Voucher,,,,Creates a test promo popup with embedded Voucher deeplink. Informs if the given parameters are not valid.
+,,,,,gahsdahjkdaigdia,,,,
+PromoPopupDeeplinkTestInvite,Default,PromoPopupDeeplinkTest,,,Invite,,,,Creates a test promo popup with embedded Invite deeplink. Informs if the given parameters are not valid.
+,,,,,asd,,,,
+PromoPopupDeeplinkTestSupportCreator,Default,PromoPopupDeeplinkTest,,,SupportCreator,,,,Creates a test promo popup with embedded SupportCreator deeplink. Informs if the given parameters are not valid.
+,,,,,TestCreatorCode,,,,
+PromoPopupDeeplinkTestFollowPlayer,Default,PromoPopupDeeplinkTest,,,FollowPlayer,,,,Creates a test promo popup with embedded FollowPlayer deeplink. Informs if the given parameters are not valid.
+,,,,,#G2LPJY,,,,
+,,,,,1,,,,
+PromoPopupDeeplinkTestCreateTeam,Default,PromoPopupDeeplinkTest,,,CreateTeam,,,,Creates a test promo popup with embedded CreateTeam deeplink. Informs if the given parameters are not valid.
+PromoPopupDeeplinkTestGoToMapScreen,Default,PromoPopupDeeplinkTest,,,GoToMapScreen,,,,Creates a test promo popup with embedded GoToMapScreen deeplink. Informs if the given parameters are not valid.
+,,,900029,,,,,,
+TosAndPpChangedPopup,Default,TosAndPpChangedPopup,,,,,,,
+TosChangedPopup,Default,TosChangedPopup,,,,,,,
+PrivacyPolicyChangedPopup,Default,PrivacyPolicyChangedPopup,,,,,,,
+AppUpdatedPopup,Default,AppUpdatedPopup,,,,,,,
+SendTestCse,Default,SendTestCse,,,,,,,
+ToggleTeamPopupMode,Default,ToggleTeamPopupMode,,,,,,,
+ReportOwnName,Default,ReportOwnName,,,,,,,
+ClearAppRating,Default,ClearAppRating,,,,,,,
+SetAppRatingToPrevVersion,Default,SetAppRatingToPrevVersion,,,,,,,
+ParagonEndedPopup,Default,ParagonEndedPopup,,,,,,,
+ReturnFromBattleReload,Default,ReturnFromBattleReload,,,,,,,
+GoToBattleScene,Default,GoToBattleScene,,,,,,,
+RefundIapTransaction,Default,RefundIapTransaction,,,,,,,
+RefundIapChronosEvent,Default,RefundIapChronosEvent,,,,,,,
+PrintOutChronosShopOffers,Default,PrintOutChronosShopOffers,,,,,,,
+PrintAdConversionChanges,Default,PrintAdConversionChanges,,,,,,,
+ResetAdConversionState,Default,ResetAdConversionState,,,,,,,
+DeleteChronosAssets,Default,DeleteChronosAssets,,,,,,,
+PrintAskedChronosAssets,Default,PrintAskedChronosAssets,,,,,,,
+PrintExistingChronosAssets,Default,PrintExistingChronosAssets,,,,,,,
+ReloadChronosAssets,Default,ReloadChronosAssets,,,,,,,
+ToggleDisableOfflineSave,Default,ToggleDisableOfflineSave,,,,,,,
+StartTutorial,Default,StartTutorial,,,,,,,
+StartTutorialStep,Default,StartTutorialStep,,,,,,,
+PrintCurrentServer,Default,PrintCurrentServer,,,,,,,
+PrintIsSpender,Default,PrintIsSpender,,,,,,,
+DonateRandomBody,Default,DonateRandomSkin,0,,,,,,Donate a random body skin
+DonateRandomHat,Default,DonateRandomSkin,1,,,,,,Donate a random hat skin
+DonateRandomEmote,Default,DonateRandomSkin,-1,,,,,,Donate a random emote
+DonateRandomMount,Default,DonateRandomSkin,-2,,,,,,Donate a random mount skin
+DonateRandomPlayerTitle,Default,DonateRandomSkin,-4,,,,,,Donate a random player title
+DonateRandomWeaponSkin,Default,DonateRandomSkin,4,,,,,,Donate a random weapon skin
+StreamingToggleResidencyVisualization,Default,,,,,,,StreamingToggleResidencyVisualization,
+StreamingToggleProxyVisualization,Default,,,,,,,StreamingToggleProxyVisualization,
+StreamingDelayLoads0ms,Default,,,,,,,StreamingDelayLoads0ms,
+StreamingDelayLoads500ms,Default,,,,,,,StreamingDelayLoads500ms,
+StreamingUnloadRecentlyUnused,Default,,,,,,,StreamingUnloadRecentlyUnused,
+FastForwardMin,Command,FastForward,60,,,,,,
+OutOfSync,Command,OutOfSync,,,,,,,
+AddIngredients,Command,AddIngredients,,,,,,,
+AddOneOfEachIngredients,Command,AddOneOfEachIngredients,,,,,,,
+AddBatteries,Command,AddBatteries,,,,,,,
+RemoveBatteries,Command,RemoveBatteries,,,,,,,
+AddCoins,Command,AddCoins,,,,,,,
+RemoveCoins,Command,RemoveCoins,,,,,,,
+AddSkinTokens,Command,AddSkinTokens,,,,,,,
+RemoveSkinTokens,Command,RemoveSkinTokens,,,,,,,
+AddParagonTokens,Command,AddParagonTokens,,,,,,,
+RemoveParagonTokens,Command,RemoveParagonTokens,,,,,,,
+IncreasePCEProgress,Command,IncreasePCEProgress,1,,,,,,
+IncreasePCEProgressALot,Command,IncreasePCEProgress,100,,,,,,
+ClearPCEPremium,Command,ClearPCEPremium,,,,,,,
+RemoveIngredients,Command,RemoveIngredients,,,,,,,
+AddIngredientsWithCaps,Command,AddIngredientsWithCaps,,,,,,,
+UpgradeAllGear,Command,UpgradeAllGear,,,,,,,
+DonatePowerGems,Command,DonatePowerGems,,,,,,,
+DonateConsumableRecipes,Command,DonateConsumableRecipes,,,,,,,
+DonateConsumableCharges,Command,DonateConsumableCharges,,,,,,,
+DonateEndgameGear,Command,DonateEndgameGear,,,,,,,
+RandomizeCurrentBuild,Command,RandomizeCurrentBuild,,,,,,,
+PurchaseCurrentTraderDeal,Command,PurchaseCurrentTraderDeal,,,,,,,
+ResetTraderDeal,Command,ResetTraderDeal,,,,,,,
+RegenerateTraderDeal,Command,RegenerateTraderDeal,,,,,,,
+FFGlobalTime1Min,Command,FastForwardGlobalTime,60,,,,,,
+FFGlobalTime10Mins,Command,FastForwardGlobalTime,600,,,,,,
+FFGlobalTime1Hour,Command,FastForwardGlobalTime,3600,,,,,,
+FFGlobalTime4Hours,Command,FastForwardGlobalTime,14400,,,,,,
+FFGlobalTime1Day,Command,FastForwardGlobalTime,86400,,,,,,
+ResetGlobalTime,Command,ResetGlobalTime,,,,,,,
+MaxGearForCurrentLevel,Command,SetGearToLevel,-1,,,,,,Unlocks all gear and sets their level to the current player level
+UnlockAllSkinsAndDyes,Command,UnlockAllSkinsAndDyes,,,,,,,
+RegenerateDailyFreebie,Command,RegenerateDailyFreebie,,,,,,,
+AddDiamonds,Command,AddDiamonds,,,,,,,Add 10000 mo.coins
+RemoveDiamonds,Command,RemoveDiamonds,,,,,,,Removes all mo.coins
+UpgradeGearBattle,Command,UpgradeGearBattle,,,,,,,
+Immortality,Command,Immortality,,,,,,,Toggles between immortality off / prevent damage / prevent death states
+BotsFollowYou,Command,BotsFollowYou,,,,,,,Moves bots next to player and they follow player. Toggle on / off
+QuickCooldowns,Command,QuickCooldowns,,,,,,,Sets the cooldown of gear to 0.3s. Does not affect gear already on cooldown.
+SuperSpeed,Command,SuperSpeed,,,,,,,
+AutoAttack,Command,AutoAttack,,,,,,,
+WinDungeon,Command,WinDungeon,,,,,,,
+LoseDungeon,Command,LoseDungeon,,,,,,,
+TestVariousBattleThings,Command,TestVariousBattleThings,,,,,,,
+CraftingMetaCalculator,Command,CraftingMetaCalculator,,,,,,,
+LevelUp,Command,LevelUp,1,,,TRUE,,,Increases the player level or paragon level without popup
+LevelUpShowPopup,Command,LevelUp,1,,,FALSE,,,Increases the player level or paragon level with popup
+LevelUpTo30,Command,LevelUpTo,30,,,,,,Levels the player to level 30
+LevelUpToParagon,Command,LevelUpToParagon,1,,,,,,Levels the player to paragon level 1
+IncreaseXp,Command,IncreaseXp,,,,,,,Increases XP by 1000
+MakeOneUpgrade,Command,MakeOneUpgrade,,,,,,,
+LevelUpSimulatorPickShortestUpgrade,Command,LevelUpSimulatorPickShortestUpgrade,,,,,,,
+LevelUpSimulatorPickLongestUpgrade,Command,LevelUpSimulatorPickLongestUpgrade,,,,,,,
+LevelUpSimulatorPickRandomUpgrade,Command,LevelUpSimulatorPickRandomUpgrade,,,,,,,
+IncreaseAchievementProgress,Command,IncreaseAchievementProgress,,,,,,,
+IncreaseParagonAchievementProgress,Command,IncreaseParagonAchievementProgress,,,,,,,
+IncreasePriorityParagonAchievementProgress,Command,IncreasePriorityParagonAchievementProgress,,,,,,,
+SpawnVisitor,Command,SpawnVisitor,,,,,,,
+SpawnSurveyVisitor,Command,SpawnSurveyVisitor,,,,,,,
+RespawnVisitor,Command,RespawnVisitor,,,,,,,
+DespawnVisitor,Command,DespawnVisitor,,,,,,,
+SkipPortalMapPopup,Command,SkipPortalMapPopup,,,,,,,Toggles portal map popups on / off. Choosing a map immediately enters the map when off
+SetSkipPortalMapPopupEnabled,Command,SkipPortalMapPopup,,,,TRUE,,,Set portal map popups off. Choosing a map immediately enters the map
+SetSkipPortalMapPopupDisabled,Command,SkipPortalMapPopup,,,,FALSE,, ,Set portal map popups on
+ToggleUnlockMapsAndBlueprints,Command,ToggleUnlockMapsAndBlueprints,,,,,,,Toggles unlocking all maps and blueprints
+SetUnlockMapsAndBlueprintsEnabled,Command,ToggleUnlockMapsAndBlueprints,1,,,,,,Unlocks all maps and blueprints
+ToggleTutorialAndMissions,Command,ToggleTutorialAndMissions,,,,,,,Toggles tutorial and missions
+SetTutorialAndMissionsEnabled,Command,ToggleTutorialAndMissions,,,,FALSE,,,Sets tutorial and missions on
+SetTutorialAndMissionsDisabled,Command,ToggleTutorialAndMissions,,,,TRUE,,,Sets tutorial and missions off
+CompleteInitialTutorial,Command,CompleteInitialTutorial,,,,,,,
+NextTutorialStep,Command,NextTutorialStep,,,,,,,
+UnlockClosedBeta1Content,Command,UnlockClosedBeta1Content,,,,,,,
+UnlockEnabledSkins,Command,UnlockEnabledSkins,,,,,,,Unlocks all skins that are enabled
+GenerateDailyMissions,Command,GenerateDailyMissions,,,,,,,
+ClearDailyMissions,Command,ClearDailyMissions,,,,,,,
+CompleteDailyMissions,Command,CompleteDailyMissions,,,,,,,
+ClearMainMissions,Command,ClearMainMissions,,,,,,,
+CompleteIapPurchase,Command,CompleteIapPurchase,,,,,,,
+DonateBlueprints,Command,DonateBlueprints,,,,,,,
+PrintEffects,Command,PrintEffects,,,,,,,
+PrintEnemyStats,Command,PrintEnemyStats,,,,,,,
+ToggleShowTestLevels,Command,ShowTestLevels,,,,,,,Toggles showing test levels in different formats. Also skips the portal map popups while enabled.
+ShowTestLevelsChapters,Command,ShowTestLevels,1,,,,,,Sets show test levels to chapter format
+UseEnemyWeapon,Command,UseEnemyWeapon,,,,,,,
+UseEnemySkill1,Command,UseEnemySkill1,,,,,,,
+UseEnemySkill2,Command,UseEnemySkill2,,,,,,,
+UseEnemySkill3,Command,UseEnemySkill3,,,,,,,
+EnableSpawnCheck,Command,EnableSpawnCheck,,,,,,,
+DumpGlobalIDs,Command,DumpGlobalIDs,,,,,,,
+ShowTestAttackVfx,Command,ShowTestAttackVfx,,,,,,,
+IncreaseCameraY,Command,IncreaseCameraY,,,,,,,
+DecreaseCameraY,Command,DecreaseCameraY,,,,,,,
+IncreaseCameraZ,Command,IncreaseCameraZ,,,,,,,
+DecreaseCameraZ,Command,DecreaseCameraZ,,,,,,,
+IncreaseCameraTargetYOffset,Command,IncreaseCameraTargetYOffset,,,,,,,
+DecreaseCameraTargetYOffset,Command,DecreaseCameraTargetYOffset,,,,,,,
+IncreaseFov,Command,IncreaseFov,,,,,,,
+DecreaseFov,Command,DecreaseFov,,,,,,,
+PrintCameraStats,Command,PrintCameraStats,,,,,,,
+SwapCamera,Command,SwapCamera,,,,,,,
+SetupPlaytestFirst,Command,SetupPlaytestFirst,,,,,,,
+ToggleDisableTasksPopupAutoOpen,Command,ToggleDisableTasksPopupAutoOpen,,,,,,,
+ShowMenuLevelUp,Command,ShowMenuLevelUp,,,,,,,Creates a level up popup for leveling to the current level. Does not change level
+ShowMenuParagonLevelUp,Command,ShowMenuParagonLevelUp,,,,,,,Creates a paragon level up popup for leveling to the current level. Does not change level
+ShowItemGet,Command,ShowItemGet,1,,,,,,Creates popup for receiving an item
+ShowItemGetMultiple,Command,ShowItemGet,3,,,,,,Creates a popup for receiving 3 items
+ShowItemLevelUp,Command,ShowItemLevelUp,1,,,,,,Creates popup for leveling up an item
+ShowItemLevelUpMultiple,Command,ShowItemLevelUp,3,,,,,,Creates popup for leveling up 3 items
+ShowGearChest,Command,ShowGearChest,,,,,,,Creates popup for a gear level up choice screen
+ShowItemGetPowerGem,Command,ShowItemGetPowerGem,,,,,,,Creates popup for receiving a smart ring
+ShowItemLevelUpPowerGem,Command,ShowItemLevelUpPowerGem,,,,,,,Creates popup for leveling up a smart ring
+KillAllEnemiesFast,Command,KillAllEnemiesFast,,,,,,,
+RevokeChronosOffer,Command,RevokeChronosOffer,,,,,,,
+SetDrawCallReduction,Tune,,,0,,,DrawCallReduction,,
+,,,,1,,,,,
+,,,,0.05,,,,,
+SetEffectAlphaDefault,Tune,,,0,,,EffectAlphaDefault,,
+,,,,1,,,,,
+,,,,0.05,,,,,
+SetEffectAlphaOwnPlayer,Tune,,,0,,,EffectAlphaOwnPlayer,,
+,,,,1,,,,,
+,,,,0.05,,,,,
+SetEffectAlphaFriendlyPlayer,Tune,,,0,,,EffectAlphaFriendlyPlayer,,
+,,,,1,,,,,
+,,,,0.05,,,,,
+SetEffectAlphaEnemyPlayer,Tune,,,0,,,EffectAlphaEnemyPlayer,,
+,,,,1,,,,,
+,,,,0.05,,,,,
+SetSpeed,Tune,,,0,,,Speed,,
+,,,,5,,,,,
+,,,,0.1,,,,,
+SetDebugReturnFromBattleXP,Tune,,,0,,,DebugReturnFromBattleXP,,
+,,,,100,,,,,
+,,,,1,,,,,
+SetDebugReturnFromBattleTokens,Tune,,,0,,,DebugReturnFromBattleTokens,,
+,,,,10,,,,,
+,,,,1,,,,,
+SetDebugReturnFromBattlePCE,Tune,,,0,,,DebugReturnFromBattlePCE,,
+,,,,100,,,,,
+,,,,1,,,,,
+SetControlsScaleFactor,Tune,,,0,,,ControlsScaleFactor,,
+,,,,1,,,,,
+,,,,0.05,,,,,
+SetControlsYMoveFactor,Tune,,,0,,,ControlsYMoveFactor,,
+,,,,1,,,,,
+,,,,0.05,,,,,
+ToggleLowEndShading,Selectable,,,,,,LowEndShading,,
+ToggleGreyAlbedo,Selectable,,,,,,GreyAlbedo,,
+ToggleLighting,Selectable,,,,,,Lighting,,
+ToggleVizAtmo,Selectable,,,,,,VizAtmo,,
+ToggleLightMask,Selectable,,,,,,LightMask,,
+ToggleDynamicShadowmap,Selectable,,,,,,DynamicShadowmap,,
+ToggleStaticShadowmap,Selectable,,,,,,StaticShadowmap,,
+ToggleStaticShadowmapWorkaround,Selectable,,,,,,StaticShadowmapWorkaround,,
+ToggleDynamicLights,Selectable,,,,,,DynamicLights,,
+ToggleCharacterImpostors,Selectable,,,,,,CharacterImpostors,,
+ToggleAtmosphere,Selectable,,,,,,Atmosphere,,
+ToggleZebraLines,Selectable,,,,,,ZebraLines,,
+ToggleUnderwater,Selectable,,,,,,Underwater,,
+ToggleEnvironmentParametersBlending,Selectable,,,,,,EnvironmentParametersBlending,ZoneBlending,
+ToggleEnvironmentParametersBlurring,Selectable,,,,,,EnvironmentParametersBlurring,ZoneBlurring,
+ToggleForceDefaultEnvironmentParameters,Selectable,,,,,,ForceDefaultEnvironmentParameters,ForceDefaultZone,
+ToggleProjectedTexture,Selectable,,,,,,ProjectedTexture,,
+ToggleSoftPrediction,Selectable,,,,,,SoftPrediction,,
+ToggleEarlyLogicUpdate,Selectable,,,,,,EarlyLogicUpdate,,
+ToggleRandomResimulations,Selectable,,,,,,RandomResimulations,,
+ToggleRequestAllChecksums,Selectable,,,,,,RequestAllChecksums,RequestAllChecksums,
+ToggleHideEffects,Selectable,,,,,,HideEffects,HideEffects,
+ToggleWireframeRendering,Selectable,,,,,,WireframeRendering,,
+ToggleOcclusionCulling,Selectable,,,,,,OcclusionCulling,,
+ToggleOptimizeOccluders,Selectable,,,,,,OptimizeOccluders,,
+ToggleColorOccludedObjects,Selectable,,,,,,ColorOccludedObjects,,
+ToggleDebugDrawOccluders,Selectable,,,,,,DebugDrawOccluders,,
+ToggleFPS30,Selectable,,,,,,FPS30,FPS30,
+ToggleColorWorldLayers,Selectable,,,,,,ColorWorldLayers,,
+ToggleUpdateOneFrame,Selectable,,,,,,UpdateOneFrame,,
+ToggleLongFrame,Selectable,,,,,,LongFrame,,
+ToggleDebugZoom,Selectable,,,,,,DebugZoom,,
+ToggleDebugCamFollow,Selectable,,,,,,DebugCamFollow,,
+ToggleSaveReplay,Selectable,,,,,,SaveReplay,,
+TogglePermaSaveReplay,Selectable,,,,,,PermaSaveReplay,,
+ToggleHideGameObjects,Selectable,,,,,,HideGameObjects,,
+TogglePause,Selectable,,,,,,,TogglePause,Toggles between 0x and 1x speed
+Toggle5XSpeed,Selectable,,,,,,,Toggle5X,Toggles between 5x and 1x speed
+ParagonSeasonNumberDecrease,Default,ParagonSeasonNumberDecrease,,,,,,,
+ParagonSeasonNumberIncrease,Default,ParagonSeasonNumberIncrease,,,,,,,

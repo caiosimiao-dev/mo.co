@@ -1,0 +1,8 @@
+Name,Default,Dirt,Grass,Sand,Stone,Wood,Water,Snow,Ice,MetalHeavy,MetalLight,Rug
+String,String,String,String,String,String,String,String,String,String,String,String,String
+footstep_s,footstep_dirt,footstep_dirt,footstep_grass,footstep_sand,footstep_concrete,footstep_wood,footstep_water,footstep_snow,footstep_ice,footstep_metal,footstep_metal,footstep_rug
+footstep_s_fp,footstep_dirt_fp,footstep_dirt_fp,footstep_grass_fp,footstep_sand_fp,footstep_concrete_fp,footstep_wood_fp,footstep_water_fp,footstep_snow_fp,footstep_ice_fp,footstep_metal_fp,footstep_metal_fp,footstep_rug_fp
+footstep_fast,footstep_dirt_fast,footstep_dirt_fast,footstep_grass_fast,footstep_sand_fast,footstep_concrete_fast,footstep_wood_fast,footstep_water_fast,,,,,
+footstep_m,Footstep_Dirt_Light,,,,,,,,,,,
+footstep_l,Footstep_Dirt_Light,,,,,,,,,,,
+hit_s,,,,,,,,,,,,
