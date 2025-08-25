@@ -2,7 +2,7 @@ Name,MainQuestStep,QuestType,QuestXpReward,QuestCubeReward,QuestSkinTokenReward,
 string,string,int,int,int,int,string,string,int,string,string,string,int,boolean,boolean,int,string,string
 Intro_3_1,Intro_3,1,,,,,,50,TutorialAreaBasic,,,,,,,,
 Intro_3_2,Intro_3,1,,,,,,3,TutorialAreaBasic,,,,,,,Civilian,
-Tutorial_Name_20_1,Tutorial_Name_20,18,,,,,,1
+Tutorial_Name_20_1,Tutorial_Name_20,18,,,,,,1,,,,,,,,,,
 Tutorial_1_2_1,Tutorial_1_2,19,,,,MagicMissilesSkill,,0
 Tutorial_1_5_2,Tutorial_1_5,16,,,,,TutorialArea,1,,,MagicMissilesSkill
 Tutorial_1_8_1,Tutorial_1_8,1,,,,,,2,TutorialArea,,,,,,,InvasionPortalTutorial
